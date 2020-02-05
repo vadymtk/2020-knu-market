@@ -24,11 +24,14 @@ ALL_COLUMNS = ['Source', 'Month', 'Year', 'Logic', 'Brand', 'Model', 'CONSTRUCTI
 def give_data(columns=ALL_COLUMNS):
     data = pd.read_excel(FILENAME, sheet_name=SHEET_WITH_DATA)
     data = data[columns]
-    data['Month'].replace(list(DATE_AXIS.keys()),
-                          list(map(lambda x: datetime.datetime.strptime(x + '2018', '%b%Y'), list(DATE_AXIS.values()))),
-                          inplace=True)
-    data.rename(columns={'Sales Units': 'Quantity', 'PRICE USD/UN.': 'PriceUSD'}, inplace=True)
-    data = data[data['Brand'] != '<OT>']
+    try:
+        data['Month'].replace(list(DATE_AXIS.keys()),
+                              list(map(lambda x: datetime.datetime.strptime(x + '2018', '%b%Y'), list(DATE_AXIS.values()))),
+                              inplace=True)
+        data.rename(columns={'Sales Units': 'Quantity', 'PRICE USD/UN.': 'PriceUSD'}, inplace=True)
+        data = data[data['Brand'] != '<OT>']
+    except Exception:
+        pass
     return data
 
 

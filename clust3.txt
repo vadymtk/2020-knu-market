@@ -1,0 +1,2844 @@
+ward sqeuclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.5930992045617756
+calinski harabasz score: 505.9803059287034
+davies_bouldin_score: 0.8953352071559003
+Clusters: 3
+silhouette_score: 0.5818503144905094
+calinski harabasz score: 691.7832646539152
+davies_bouldin_score: 0.7122507519010989
+Clusters: 4
+silhouette_score: 0.5884924086151619
+calinski harabasz score: 737.3785818944187
+davies_bouldin_score: 0.6638747626019047
+Clusters: 5
+silhouette_score: 0.6288322282080712
+calinski harabasz score: 1027.2640739880726
+davies_bouldin_score: 0.6986670941608093
+Clusters: 6
+silhouette_score: 0.613072411146578
+calinski harabasz score: 1065.1517502427348
+davies_bouldin_score: 0.740913603545748
+Clusters: 7
+silhouette_score: 0.6387445670576227
+calinski harabasz score: 1170.534884465599
+davies_bouldin_score: 0.718982575689828
+Clusters: 8
+silhouette_score: 0.6571030221414332
+calinski harabasz score: 1201.7668975062927
+davies_bouldin_score: 0.6189976975439386
+Clusters: 9
+silhouette_score: 0.6206962559780513
+calinski harabasz score: 1229.2600170550425
+davies_bouldin_score: 0.6247553993678966
+Clusters: 10
+silhouette_score: 0.6301532060980365
+calinski harabasz score: 1353.9275502956461
+davies_bouldin_score: 0.6650189689862616
+Clusters: 11
+silhouette_score: 0.6079973188926542
+calinski harabasz score: 1348.884296773612
+davies_bouldin_score: 0.7080134061380131
+Clusters: 12
+silhouette_score: 0.5918216891573305
+calinski harabasz score: 1364.1110292837411
+davies_bouldin_score: 0.7183045937631203
+Clusters: 13
+silhouette_score: 0.5712998207730915
+calinski harabasz score: 1363.6272661420492
+davies_bouldin_score: 0.7306045392622268
+Clusters: 14
+silhouette_score: 0.5635558263953456
+calinski harabasz score: 1380.9818561097502
+davies_bouldin_score: 0.7689499720394954
+Clusters: 15
+silhouette_score: 0.5762903306222525
+calinski harabasz score: 1415.3735593591748
+davies_bouldin_score: 0.7571255484900519
+Clusters: 16
+silhouette_score: 0.5794634820778871
+calinski harabasz score: 1454.9378740986826
+davies_bouldin_score: 0.7677989658115671
+Clusters: 17
+silhouette_score: 0.5750640916653323
+calinski harabasz score: 1457.1710742644318
+davies_bouldin_score: 0.7620230627451182
+Clusters: 18
+silhouette_score: 0.5855320297971318
+calinski harabasz score: 1449.8009877517559
+davies_bouldin_score: 0.7639209485842692
+Clusters: 19
+silhouette_score: 0.5742577947989248
+calinski harabasz score: 1432.613998202052
+davies_bouldin_score: 0.7547502796210633
+ward euclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.451106
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.51460314
+calinski harabasz score: 899.2001773616192
+davies_bouldin_score: 0.6710930092070608
+Clusters: 4
+silhouette_score: 0.46122032
+calinski harabasz score: 871.4619319357682
+davies_bouldin_score: 0.741880286436793
+Clusters: 5
+silhouette_score: 0.46013033
+calinski harabasz score: 921.4601461095683
+davies_bouldin_score: 0.7176889871799157
+Clusters: 6
+silhouette_score: 0.4495195
+calinski harabasz score: 1047.9262027174918
+davies_bouldin_score: 0.7400525054435225
+Clusters: 7
+silhouette_score: 0.4675042
+calinski harabasz score: 1203.7631827595335
+davies_bouldin_score: 0.697819730344162
+Clusters: 8
+silhouette_score: 0.48380947
+calinski harabasz score: 1241.8265083383892
+davies_bouldin_score: 0.599388501044626
+Clusters: 9
+silhouette_score: 0.48137712
+calinski harabasz score: 1331.9317583955387
+davies_bouldin_score: 0.6560382944847052
+Clusters: 10
+silhouette_score: 0.4737627
+calinski harabasz score: 1398.3036713089164
+davies_bouldin_score: 0.6531867268403992
+Clusters: 11
+silhouette_score: 0.45335892
+calinski harabasz score: 1397.6170074783847
+davies_bouldin_score: 0.6972568223690474
+Clusters: 12
+silhouette_score: 0.43894398
+calinski harabasz score: 1401.1584717409596
+davies_bouldin_score: 0.7064053729704781
+Clusters: 13
+silhouette_score: 0.43174446
+calinski harabasz score: 1411.2975627813134
+davies_bouldin_score: 0.747117859022954
+Clusters: 14
+silhouette_score: 0.43280604
+calinski harabasz score: 1437.3564447285435
+davies_bouldin_score: 0.7473279808399907
+Clusters: 15
+silhouette_score: 0.43621206
+calinski harabasz score: 1466.3135665168434
+davies_bouldin_score: 0.7649322282105574
+Clusters: 16
+silhouette_score: 0.43265653
+calinski harabasz score: 1475.4925485443814
+davies_bouldin_score: 0.7572996778145673
+Clusters: 17
+silhouette_score: 0.43398726
+calinski harabasz score: 1479.145469357487
+davies_bouldin_score: 0.749598805387091
+Clusters: 18
+silhouette_score: 0.42854768
+calinski harabasz score: 1472.8372773251035
+davies_bouldin_score: 0.7520645118182043
+Clusters: 19
+silhouette_score: 0.42422184
+calinski harabasz score: 1471.6555005695514
+davies_bouldin_score: 0.7486045395142265
+ward cityblock
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.42187797537104266
+calinski harabasz score: 505.9803059287034
+davies_bouldin_score: 0.8953352071559003
+Clusters: 3
+silhouette_score: 0.45067812878506114
+calinski harabasz score: 691.7832646539152
+davies_bouldin_score: 0.7122507519010989
+Clusters: 4
+silhouette_score: 0.46259255364276397
+calinski harabasz score: 723.1361108809551
+davies_bouldin_score: 0.7324978313473757
+Clusters: 5
+silhouette_score: 0.45828367321608393
+calinski harabasz score: 1006.6625075843166
+davies_bouldin_score: 0.705300189500448
+Clusters: 6
+silhouette_score: 0.4555757285783423
+calinski harabasz score: 999.648725042669
+davies_bouldin_score: 0.6607281991469861
+Clusters: 7
+silhouette_score: 0.4703993469770775
+calinski harabasz score: 1135.2690417750084
+davies_bouldin_score: 0.7239701803732721
+Clusters: 8
+silhouette_score: 0.494366320388103
+calinski harabasz score: 1159.670727798875
+davies_bouldin_score: 0.6226173451886374
+Clusters: 9
+silhouette_score: 0.463289541587795
+calinski harabasz score: 1277.3823632214269
+davies_bouldin_score: 0.6311630611032784
+Clusters: 10
+silhouette_score: 0.4692145464040652
+calinski harabasz score: 1371.7949412113007
+davies_bouldin_score: 0.683884124333983
+Clusters: 11
+silhouette_score: 0.44142323397468125
+calinski harabasz score: 1337.5485758391794
+davies_bouldin_score: 0.7142093730359556
+Clusters: 12
+silhouette_score: 0.42253506513855116
+calinski harabasz score: 1337.6475396329756
+davies_bouldin_score: 0.7183278640812542
+Clusters: 13
+silhouette_score: 0.4300014912104985
+calinski harabasz score: 1331.126612245639
+davies_bouldin_score: 0.6885107036321447
+Clusters: 14
+silhouette_score: 0.41657824286110884
+calinski harabasz score: 1345.1161939243866
+davies_bouldin_score: 0.7321912900238121
+Clusters: 15
+silhouette_score: 0.4203718121840599
+calinski harabasz score: 1359.8940417445529
+davies_bouldin_score: 0.7511465206757619
+Clusters: 16
+silhouette_score: 0.405886867353419
+calinski harabasz score: 1363.8631688994517
+davies_bouldin_score: 0.7709868878873689
+Clusters: 17
+silhouette_score: 0.4067189141041547
+calinski harabasz score: 1360.3003316657396
+davies_bouldin_score: 0.76074054892488
+Clusters: 18
+silhouette_score: 0.4035924576871034
+calinski harabasz score: 1393.7910554320827
+davies_bouldin_score: 0.7701558499343428
+Clusters: 19
+silhouette_score: 0.400521431607038
+calinski harabasz score: 1393.2978400175716
+davies_bouldin_score: 0.7733662991542659
+ward seuclidean
+Можлива к-ть класів
+ward cosine
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.5289879
+calinski harabasz score: 498.5643162215962
+davies_bouldin_score: 0.828792828618393
+Clusters: 3
+silhouette_score: 0.70613503
+calinski harabasz score: 876.6708485848345
+davies_bouldin_score: 0.6673967674608999
+Clusters: 4
+silhouette_score: 0.7325164
+calinski harabasz score: 795.0674757808724
+davies_bouldin_score: 0.7165124295484233
+Clusters: 5
+silhouette_score: 0.73749214
+calinski harabasz score: 717.3011286455713
+davies_bouldin_score: 0.6941299614584023
+Clusters: 6
+silhouette_score: 0.7324005
+calinski harabasz score: 661.5200810836509
+davies_bouldin_score: 0.8117938966673224
+Clusters: 7
+silhouette_score: 0.698565
+calinski harabasz score: 769.2998068354934
+davies_bouldin_score: 0.8449732871702592
+Clusters: 8
+silhouette_score: 0.68695605
+calinski harabasz score: 687.3250988265206
+davies_bouldin_score: 0.869934559150196
+Clusters: 9
+silhouette_score: 0.70541656
+calinski harabasz score: 767.4677379233016
+davies_bouldin_score: 0.7468454811009795
+Clusters: 10
+silhouette_score: 0.72423935
+calinski harabasz score: 738.1361869003337
+davies_bouldin_score: 0.8559238524317874
+Clusters: 11
+silhouette_score: 0.73429596
+calinski harabasz score: 680.7112137641252
+davies_bouldin_score: 0.8998388410227072
+Clusters: 12
+silhouette_score: 0.7266922
+calinski harabasz score: 652.5614819255271
+davies_bouldin_score: 0.9752960379360621
+Clusters: 13
+silhouette_score: 0.7119526
+calinski harabasz score: 600.3336657798556
+davies_bouldin_score: 0.9817926924836745
+Clusters: 14
+silhouette_score: 0.7000237
+calinski harabasz score: 560.9142845548056
+davies_bouldin_score: 1.0743266386184824
+Clusters: 15
+silhouette_score: 0.6966374
+calinski harabasz score: 523.9692206606665
+davies_bouldin_score: 1.1498517252680607
+Clusters: 16
+silhouette_score: 0.6922897
+calinski harabasz score: 614.9454136600152
+davies_bouldin_score: 1.2702346119716825
+Clusters: 17
+silhouette_score: 0.6749114
+calinski harabasz score: 586.786865084569
+davies_bouldin_score: 1.3972748295677366
+Clusters: 18
+silhouette_score: 0.69238853
+calinski harabasz score: 580.44935940162
+davies_bouldin_score: 1.4216672427386703
+Clusters: 19
+silhouette_score: 0.6961512
+calinski harabasz score: 551.1353738261536
+davies_bouldin_score: 1.471825508932954
+ward correlation
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 1.0
+calinski harabasz score: 485.82095592219815
+davies_bouldin_score: 0.9619778922790063
+Clusters: 3
+silhouette_score: 0.47498490159813755
+calinski harabasz score: 244.51318061845996
+davies_bouldin_score: 8.451876853906116
+Clusters: 4
+silhouette_score: 0.38513284596241354
+calinski harabasz score: 164.28021597731575
+davies_bouldin_score: 11.879263082906618
+Clusters: 5
+silhouette_score: 0.25890673593845365
+calinski harabasz score: 123.19475334167808
+davies_bouldin_score: 16.2217756357805
+ward hamming
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 4.034274152936001
+davies_bouldin_score: 0.7966438086061789
+Clusters: 3
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 4.034274152936001
+davies_bouldin_score: 0.7966438086061789
+Clusters: 4
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 4.034274152936001
+davies_bouldin_score: 0.7966438086061789
+Clusters: 5
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 4.034274152936001
+davies_bouldin_score: 0.7966438086061789
+Clusters: 6
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 7
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 8
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 9
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 10
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 11
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 12
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 13
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 14
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 15
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 16
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 17
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 18
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+Clusters: 19
+silhouette_score: 0.0016501650165016502
+calinski harabasz score: 1.076890539342147
+davies_bouldin_score: 1.5413422684030553
+ward chebyshev
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.46312580393262226
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.5047891891566127
+calinski harabasz score: 906.7662948819632
+davies_bouldin_score: 0.6731428232564342
+Clusters: 4
+silhouette_score: 0.4410198604583634
+calinski harabasz score: 840.9319193513095
+davies_bouldin_score: 0.7711114869582507
+Clusters: 5
+silhouette_score: 0.4398590857315431
+calinski harabasz score: 881.1025985360305
+davies_bouldin_score: 0.7411907132062794
+Clusters: 6
+silhouette_score: 0.44103225362806037
+calinski harabasz score: 1023.6586731780606
+davies_bouldin_score: 0.7511701716476537
+Clusters: 7
+silhouette_score: 0.43725416061294187
+calinski harabasz score: 1113.7760566483869
+davies_bouldin_score: 0.7043833597433969
+Clusters: 8
+silhouette_score: 0.4596557460919819
+calinski harabasz score: 1167.0563219015935
+davies_bouldin_score: 0.6284367946648791
+Clusters: 9
+silhouette_score: 0.4600341483951656
+calinski harabasz score: 1277.6645371953375
+davies_bouldin_score: 0.6886785007067194
+Clusters: 10
+silhouette_score: 0.44943397506974275
+calinski harabasz score: 1324.0775547902838
+davies_bouldin_score: 0.6919612257204436
+Clusters: 11
+silhouette_score: 0.46499181080223245
+calinski harabasz score: 1362.587576428152
+davies_bouldin_score: 0.69818814547178
+Clusters: 12
+silhouette_score: 0.46798542466004533
+calinski harabasz score: 1379.4356231856011
+davies_bouldin_score: 0.6934139589256295
+Clusters: 13
+silhouette_score: 0.4710766986579095
+calinski harabasz score: 1382.84500084567
+davies_bouldin_score: 0.708300864633582
+Clusters: 14
+silhouette_score: 0.44019713610481703
+calinski harabasz score: 1398.7830411961666
+davies_bouldin_score: 0.7227390700254517
+Clusters: 15
+silhouette_score: 0.428184493813608
+calinski harabasz score: 1429.2558295270169
+davies_bouldin_score: 0.7329408366721737
+Clusters: 16
+silhouette_score: 0.425950102256646
+calinski harabasz score: 1424.167992272846
+davies_bouldin_score: 0.7052186343216023
+Clusters: 17
+silhouette_score: 0.4234380002732072
+calinski harabasz score: 1424.3529382018535
+davies_bouldin_score: 0.703486798112788
+Clusters: 18
+silhouette_score: 0.41290359951470773
+calinski harabasz score: 1421.4775094119882
+davies_bouldin_score: 0.712354718820118
+Clusters: 19
+silhouette_score: 0.41946798168689997
+calinski harabasz score: 1410.8911046770836
+davies_bouldin_score: 0.7450034508153803
+ward canberra
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.3833253227282392
+calinski harabasz score: 325.9485188154025
+davies_bouldin_score: 1.2444434928334824
+Clusters: 3
+silhouette_score: 0.3980004307895379
+calinski harabasz score: 754.2829615592386
+davies_bouldin_score: 0.6856590112368618
+Clusters: 4
+silhouette_score: 0.4724850074671675
+calinski harabasz score: 756.861954813823
+davies_bouldin_score: 0.8092866747062819
+Clusters: 5
+silhouette_score: 0.46794298925542593
+calinski harabasz score: 682.8064894425951
+davies_bouldin_score: 0.7827668578913431
+Clusters: 6
+silhouette_score: 0.45236216632760934
+calinski harabasz score: 588.9008602628586
+davies_bouldin_score: 1.0176218094919882
+Clusters: 7
+silhouette_score: 0.43971907873465965
+calinski harabasz score: 744.1650161729349
+davies_bouldin_score: 0.9751111999927354
+Clusters: 8
+silhouette_score: 0.446068369625869
+calinski harabasz score: 854.4570373314386
+davies_bouldin_score: 0.8790087253645128
+Clusters: 9
+silhouette_score: 0.4357734171643997
+calinski harabasz score: 832.0422368234285
+davies_bouldin_score: 0.8749271651198169
+Clusters: 10
+silhouette_score: 0.4382215772868528
+calinski harabasz score: 865.8603235885389
+davies_bouldin_score: 0.9395755805889806
+Clusters: 11
+silhouette_score: 0.45389568459679364
+calinski harabasz score: 847.5555392621869
+davies_bouldin_score: 0.9486459312056815
+Clusters: 12
+silhouette_score: 0.4625883877760053
+calinski harabasz score: 802.8222542409611
+davies_bouldin_score: 0.9560990006258067
+Clusters: 13
+silhouette_score: 0.4710916315092094
+calinski harabasz score: 751.2677946444375
+davies_bouldin_score: 1.0598653148411534
+Clusters: 14
+silhouette_score: 0.46984758651046643
+calinski harabasz score: 748.8855574417619
+davies_bouldin_score: 1.032967109644783
+Clusters: 15
+silhouette_score: 0.47318588934204303
+calinski harabasz score: 718.5458622997528
+davies_bouldin_score: 1.4247195923890008
+Clusters: 16
+silhouette_score: 0.474335649273971
+calinski harabasz score: 673.7436787963186
+davies_bouldin_score: 1.5128659061673408
+Clusters: 17
+silhouette_score: 0.4758751082474109
+calinski harabasz score: 667.1298316231181
+davies_bouldin_score: 1.4752430194334047
+Clusters: 18
+silhouette_score: 0.4726922888070761
+calinski harabasz score: 633.537331569316
+davies_bouldin_score: 1.4918848426114009
+Clusters: 19
+silhouette_score: 0.45028425521890414
+calinski harabasz score: 626.2247639019578
+davies_bouldin_score: 1.4838740839689957
+ward braycurtis
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.4221069498533093
+calinski harabasz score: 508.30441477739
+davies_bouldin_score: 0.793705235335093
+Clusters: 3
+silhouette_score: 0.5824623033561894
+calinski harabasz score: 900.7245841566389
+davies_bouldin_score: 0.6696374032168343
+Clusters: 4
+silhouette_score: 0.5633722148121435
+calinski harabasz score: 854.7515749760631
+davies_bouldin_score: 0.7470512833791374
+Clusters: 5
+silhouette_score: 0.5192579556520924
+calinski harabasz score: 766.0941692455067
+davies_bouldin_score: 0.6509410530312909
+Clusters: 6
+silhouette_score: 0.5172135049964873
+calinski harabasz score: 734.1515701528848
+davies_bouldin_score: 0.6643840886669827
+Clusters: 7
+silhouette_score: 0.543123949821405
+calinski harabasz score: 773.6117413910158
+davies_bouldin_score: 0.5997644938149145
+Clusters: 8
+silhouette_score: 0.5148783457465802
+calinski harabasz score: 735.3235395927921
+davies_bouldin_score: 0.6594388638621929
+Clusters: 9
+silhouette_score: 0.504809426342594
+calinski harabasz score: 1253.8860908277932
+davies_bouldin_score: 0.6694493502163602
+Clusters: 10
+silhouette_score: 0.5033917991715066
+calinski harabasz score: 1149.3005490087148
+davies_bouldin_score: 0.633998418356503
+Clusters: 11
+silhouette_score: 0.5076493385903837
+calinski harabasz score: 1097.294548256258
+davies_bouldin_score: 0.6429610508771542
+Clusters: 12
+silhouette_score: 0.48275531628153534
+calinski harabasz score: 1067.3472722332726
+davies_bouldin_score: 0.6960154929761226
+Clusters: 13
+silhouette_score: 0.47521619601886855
+calinski harabasz score: 1031.3003291262746
+davies_bouldin_score: 0.752109953253328
+Clusters: 14
+silhouette_score: 0.4696140359359885
+calinski harabasz score: 974.7330841502865
+davies_bouldin_score: 0.7685050648096491
+Clusters: 15
+silhouette_score: 0.46320440454619477
+calinski harabasz score: 987.4445331443042
+davies_bouldin_score: 0.7630108538309036
+Clusters: 16
+silhouette_score: 0.4725504273239463
+calinski harabasz score: 950.0832640684179
+davies_bouldin_score: 0.7370063627616332
+Clusters: 17
+silhouette_score: 0.4482048297448531
+calinski harabasz score: 1224.0138444001852
+davies_bouldin_score: 0.731545392630671
+Clusters: 18
+silhouette_score: 0.42637322035422304
+calinski harabasz score: 1198.8269669368306
+davies_bouldin_score: 0.7460210134342459
+Clusters: 19
+silhouette_score: 0.40431939317364585
+calinski harabasz score: 1328.7415473146805
+davies_bouldin_score: 0.770266338255118
+centroid sqeuclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.6064317054983752
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.6969998330156479
+calinski harabasz score: 899.2001773616192
+davies_bouldin_score: 0.6710930092070608
+Clusters: 4
+silhouette_score: 0.5857626631386765
+calinski harabasz score: 782.3507802719549
+davies_bouldin_score: 0.6529547551453923
+Clusters: 5
+silhouette_score: 0.6247536191281092
+calinski harabasz score: 920.9846411094766
+davies_bouldin_score: 0.7171205250179071
+Clusters: 6
+silhouette_score: 0.5977814329316358
+calinski harabasz score: 1036.4311043521227
+davies_bouldin_score: 0.7385635711496397
+Clusters: 7
+silhouette_score: 0.6224347874637716
+calinski harabasz score: 1196.2370618948025
+davies_bouldin_score: 0.6981498171662489
+Clusters: 8
+silhouette_score: 0.6590344710439545
+calinski harabasz score: 1263.1521741212566
+davies_bouldin_score: 0.6083692276852205
+Clusters: 9
+silhouette_score: 0.6619555067761308
+calinski harabasz score: 1344.8261832356054
+davies_bouldin_score: 0.6650516686271777
+Clusters: 10
+silhouette_score: 0.6447943675957466
+calinski harabasz score: 1404.7106168583878
+davies_bouldin_score: 0.6706970768488563
+Clusters: 11
+silhouette_score: 0.6261574892305836
+calinski harabasz score: 1391.044991734697
+davies_bouldin_score: 0.685953250069902
+Clusters: 12
+silhouette_score: 0.6144948888844225
+calinski harabasz score: 1376.8355140386982
+davies_bouldin_score: 0.731403222390446
+Clusters: 13
+silhouette_score: 0.6144376740572661
+calinski harabasz score: 1378.0322831378776
+davies_bouldin_score: 0.7336299622282538
+Clusters: 14
+silhouette_score: 0.584823729355407
+calinski harabasz score: 1409.249922628859
+davies_bouldin_score: 0.7599264056008475
+Clusters: 15
+silhouette_score: 0.590293581322855
+calinski harabasz score: 1436.0958907574397
+davies_bouldin_score: 0.7702930919591416
+Clusters: 16
+silhouette_score: 0.576337390139853
+calinski harabasz score: 1390.3889917189906
+davies_bouldin_score: 0.7569885397493417
+Clusters: 17
+silhouette_score: 0.580170486813434
+calinski harabasz score: 1413.5264397582885
+davies_bouldin_score: 0.76812346971428
+Clusters: 18
+silhouette_score: 0.5837203682630144
+calinski harabasz score: 1445.8307225120905
+davies_bouldin_score: 0.7611558048017566
+Clusters: 19
+silhouette_score: 0.5803434635882094
+calinski harabasz score: 1464.5657191427506
+davies_bouldin_score: 0.7633395665371637
+centroid euclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.45110595
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.45968926
+calinski harabasz score: 680.5723299564281
+davies_bouldin_score: 0.6418901134722229
+Clusters: 4
+silhouette_score: 0.46447113
+calinski harabasz score: 810.2591960222276
+davies_bouldin_score: 0.7862209666697724
+Clusters: 5
+silhouette_score: 0.42592564
+calinski harabasz score: 841.3657379856456
+davies_bouldin_score: 0.7493569130326744
+Clusters: 6
+silhouette_score: 0.45083317
+calinski harabasz score: 1035.0874260130395
+davies_bouldin_score: 0.6655164261202581
+Clusters: 7
+silhouette_score: 0.47591045
+calinski harabasz score: 1123.0956718666318
+davies_bouldin_score: 0.623432340542107
+Clusters: 8
+silhouette_score: 0.48800266
+calinski harabasz score: 1250.364555923475
+davies_bouldin_score: 0.6070291826824334
+Clusters: 9
+silhouette_score: 0.4848382
+calinski harabasz score: 1342.92382108446
+davies_bouldin_score: 0.6608715988375414
+Clusters: 10
+silhouette_score: 0.47592768
+calinski harabasz score: 1396.297715065517
+davies_bouldin_score: 0.6575407191891438
+Clusters: 11
+silhouette_score: 0.4651157
+calinski harabasz score: 1358.2779987518738
+davies_bouldin_score: 0.6479550261456674
+Clusters: 12
+silhouette_score: 0.44069126
+calinski harabasz score: 1382.796116994214
+davies_bouldin_score: 0.689546855706448
+Clusters: 13
+silhouette_score: 0.44069126
+calinski harabasz score: 1382.796116994214
+davies_bouldin_score: 0.689546855706448
+Clusters: 14
+silhouette_score: 0.43964118
+calinski harabasz score: 1378.8644976214348
+davies_bouldin_score: 0.6847524720128312
+Clusters: 15
+silhouette_score: 0.41673148
+calinski harabasz score: 1368.8908066926222
+davies_bouldin_score: 0.6889278940592812
+Clusters: 16
+silhouette_score: 0.40656546
+calinski harabasz score: 1323.0410840698864
+davies_bouldin_score: 0.6809482147249175
+Clusters: 17
+silhouette_score: 0.41891822
+calinski harabasz score: 1371.1594445739715
+davies_bouldin_score: 0.7003860662939512
+Clusters: 18
+silhouette_score: 0.40784687
+calinski harabasz score: 1378.1929496507546
+davies_bouldin_score: 0.7092167390477572
+Clusters: 19
+silhouette_score: 0.40648714
+calinski harabasz score: 1396.3145176721314
+davies_bouldin_score: 0.7118452457020771
+centroid cityblock
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.43082066125787066
+calinski harabasz score: 363.18643541015706
+davies_bouldin_score: 0.6359318552316765
+Clusters: 3
+silhouette_score: 0.3995120288967191
+calinski harabasz score: 471.9194495624234
+davies_bouldin_score: 0.5888709627469022
+Clusters: 4
+silhouette_score: 0.3995120288967191
+calinski harabasz score: 471.9194495624234
+davies_bouldin_score: 0.5888709627469022
+Clusters: 5
+silhouette_score: 0.43395494575293914
+calinski harabasz score: 837.0760477727961
+davies_bouldin_score: 0.6784045270833763
+Clusters: 6
+silhouette_score: 0.4375610559366896
+calinski harabasz score: 974.7471182363615
+davies_bouldin_score: 0.6656602789319538
+Clusters: 7
+silhouette_score: 0.4375610559366896
+calinski harabasz score: 974.7471182363615
+davies_bouldin_score: 0.6656602789319538
+Clusters: 8
+silhouette_score: 0.4872341718333397
+calinski harabasz score: 1200.1698113307648
+davies_bouldin_score: 0.6134881843295797
+Clusters: 9
+silhouette_score: 0.4855585274735071
+calinski harabasz score: 1278.7315423741206
+davies_bouldin_score: 0.6698809888105638
+Clusters: 10
+silhouette_score: 0.4763317340492047
+calinski harabasz score: 1416.3283025439464
+davies_bouldin_score: 0.6702507019103905
+Clusters: 11
+silhouette_score: 0.4575877854793383
+calinski harabasz score: 1379.2511299809266
+davies_bouldin_score: 0.6574610610031469
+Clusters: 12
+silhouette_score: 0.4548077801322835
+calinski harabasz score: 1303.697084460214
+davies_bouldin_score: 0.6706889223175688
+Clusters: 13
+silhouette_score: 0.42912897909163866
+calinski harabasz score: 1306.0678819587672
+davies_bouldin_score: 0.7038497874811838
+Clusters: 14
+silhouette_score: 0.43129220167894244
+calinski harabasz score: 1313.0461173412357
+davies_bouldin_score: 0.7095270608587513
+Clusters: 15
+silhouette_score: 0.41135827200063013
+calinski harabasz score: 1349.546550544305
+davies_bouldin_score: 0.7545558763964778
+Clusters: 16
+silhouette_score: 0.41130931527773884
+calinski harabasz score: 1355.3472917794202
+davies_bouldin_score: 0.7592179391391538
+Clusters: 17
+silhouette_score: 0.4191908257899784
+calinski harabasz score: 1412.8266032917472
+davies_bouldin_score: 0.7734496681691114
+Clusters: 18
+silhouette_score: 0.41981831033196904
+calinski harabasz score: 1424.0926496006737
+davies_bouldin_score: 0.7679531431969477
+Clusters: 19
+silhouette_score: 0.41062045381752343
+calinski harabasz score: 1406.068124283578
+davies_bouldin_score: 0.7624237182536553
+centroid seuclidean
+Можлива к-ть класів
+centroid cosine
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.59940857
+calinski harabasz score: 506.31028159363876
+davies_bouldin_score: 0.8933937540201841
+Clusters: 3
+silhouette_score: 0.76478016
+calinski harabasz score: 839.1035933199054
+davies_bouldin_score: 0.6495924653528252
+Clusters: 4
+silhouette_score: 0.709085
+calinski harabasz score: 682.5434940460062
+davies_bouldin_score: 0.7001253689809092
+Clusters: 5
+silhouette_score: 0.6690075
+calinski harabasz score: 737.2841651700422
+davies_bouldin_score: 0.7105696335617249
+Clusters: 6
+silhouette_score: 0.6392197
+calinski harabasz score: 633.9217684567465
+davies_bouldin_score: 0.7125335664712438
+Clusters: 7
+silhouette_score: 0.68435067
+calinski harabasz score: 613.1977529084223
+davies_bouldin_score: 0.7251820748770441
+Clusters: 8
+silhouette_score: 0.7324811
+calinski harabasz score: 634.8925890710534
+davies_bouldin_score: 0.7370465501997834
+Clusters: 9
+silhouette_score: 0.71344113
+calinski harabasz score: 746.2022558876554
+davies_bouldin_score: 0.7756267328846681
+Clusters: 10
+silhouette_score: 0.72443295
+calinski harabasz score: 716.314005928118
+davies_bouldin_score: 0.8894827118665607
+Clusters: 11
+silhouette_score: 0.73430544
+calinski harabasz score: 660.156483318117
+davies_bouldin_score: 0.9188405945263476
+Clusters: 12
+silhouette_score: 0.7142027
+calinski harabasz score: 605.6525820072915
+davies_bouldin_score: 1.0553156712690945
+Clusters: 13
+silhouette_score: 0.69382954
+calinski harabasz score: 642.1912785314597
+davies_bouldin_score: 1.0361465560794785
+Clusters: 14
+silhouette_score: 0.69592154
+calinski harabasz score: 612.4063352998745
+davies_bouldin_score: 1.0830704358998016
+Clusters: 15
+silhouette_score: 0.68399256
+calinski harabasz score: 576.3262059934892
+davies_bouldin_score: 1.162683602731214
+Clusters: 16
+silhouette_score: 0.6635484
+calinski harabasz score: 541.8028432374722
+davies_bouldin_score: 1.2312000096246651
+Clusters: 17
+silhouette_score: 0.66580886
+calinski harabasz score: 515.9384528837767
+davies_bouldin_score: 1.3467513710703112
+Clusters: 18
+silhouette_score: 0.6675025
+calinski harabasz score: 486.87831612358843
+davies_bouldin_score: 1.4467535706820251
+Clusters: 19
+silhouette_score: 0.6654692
+calinski harabasz score: 461.9446438364866
+davies_bouldin_score: 1.4571677426125125
+centroid correlation
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 1.0
+calinski harabasz score: 485.82095592219815
+davies_bouldin_score: 0.9619778922790063
+Clusters: 3
+silhouette_score: 0.7527870211263551
+calinski harabasz score: 243.6342885413564
+davies_bouldin_score: 0.9272930850561156
+Clusters: 4
+silhouette_score: 0.5144348386277704
+calinski harabasz score: 162.60351105445193
+davies_bouldin_score: 0.9270304844677524
+Clusters: 5
+silhouette_score: 0.3067401720407367
+calinski harabasz score: 122.07866211774939
+davies_bouldin_score: 0.9987047744380118
+Clusters: 6
+silhouette_score: 0.3067401720407367
+calinski harabasz score: 122.07866211774939
+davies_bouldin_score: 0.9987047744380118
+Clusters: 7
+silhouette_score: 0.16850975369503476
+calinski harabasz score: 81.30637873512964
+davies_bouldin_score: 1.2860802550127182
+Clusters: 8
+silhouette_score: 0.13208917918633042
+calinski harabasz score: 69.89590836708871
+davies_bouldin_score: 1.2303294579923532
+Clusters: 9
+silhouette_score: 0.08909033828980709
+calinski harabasz score: 61.1154883312994
+davies_bouldin_score: 1.32325746498872
+centroid hamming
+Можлива к-ть класів
+centroid chebyshev
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.4374773575312053
+calinski harabasz score: 385.67585855559975
+davies_bouldin_score: 0.6564993783548239
+Clusters: 3
+silhouette_score: 0.39354351987888425
+calinski harabasz score: 530.1859001947803
+davies_bouldin_score: 0.5952835548841621
+Clusters: 4
+silhouette_score: 0.39092044427023753
+calinski harabasz score: 656.7805261566405
+davies_bouldin_score: 0.7228376212798091
+Clusters: 5
+silhouette_score: 0.456130628918334
+calinski harabasz score: 997.8246202620113
+davies_bouldin_score: 0.707790040221887
+Clusters: 6
+silhouette_score: 0.4691813254324527
+calinski harabasz score: 984.7927870797379
+davies_bouldin_score: 0.6607855624287141
+Clusters: 7
+silhouette_score: 0.4521171525886568
+calinski harabasz score: 953.2724648849048
+davies_bouldin_score: 0.6645203964424236
+Clusters: 8
+silhouette_score: 0.4448689206975758
+calinski harabasz score: 1097.1064036386479
+davies_bouldin_score: 0.6499442926127906
+Clusters: 9
+silhouette_score: 0.45655273416928516
+calinski harabasz score: 1293.116922788149
+davies_bouldin_score: 0.6308073896783227
+Clusters: 10
+silhouette_score: 0.4633840470620729
+calinski harabasz score: 1384.9815289527323
+davies_bouldin_score: 0.6841243161180761
+Clusters: 11
+silhouette_score: 0.4579202656469209
+calinski harabasz score: 1346.449369039295
+davies_bouldin_score: 0.6721219324446966
+Clusters: 12
+silhouette_score: 0.4442553318555638
+calinski harabasz score: 1307.2608494489598
+davies_bouldin_score: 0.6888934916375571
+Clusters: 13
+silhouette_score: 0.43644985409298115
+calinski harabasz score: 1229.9956393258926
+davies_bouldin_score: 0.67907499418155
+Clusters: 14
+silhouette_score: 0.4134409793227279
+calinski harabasz score: 1277.6394784901902
+davies_bouldin_score: 0.7183950464304206
+Clusters: 15
+silhouette_score: 0.42529151208431554
+calinski harabasz score: 1299.7384561601498
+davies_bouldin_score: 0.6934736609743143
+Clusters: 16
+silhouette_score: 0.4121695391759214
+calinski harabasz score: 1304.5375833065457
+davies_bouldin_score: 0.7529272357800301
+Clusters: 17
+silhouette_score: 0.4121695391759214
+calinski harabasz score: 1304.5375833065457
+davies_bouldin_score: 0.7529272357800301
+Clusters: 18
+silhouette_score: 0.408972442352831
+calinski harabasz score: 1316.8375139889474
+davies_bouldin_score: 0.759579703606556
+Clusters: 19
+silhouette_score: 0.39966033189904704
+calinski harabasz score: 1290.5467734808835
+davies_bouldin_score: 0.7038642097591096
+centroid canberra
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.1569327331992166
+calinski harabasz score: 0.08784104726712329
+davies_bouldin_score: 3.1352734094982377
+Clusters: 3
+silhouette_score: 0.30177453010680133
+calinski harabasz score: 163.18415696027157
+davies_bouldin_score: 1.326392424219346
+Clusters: 4
+silhouette_score: 0.3636499281549626
+calinski harabasz score: 503.6751959404451
+davies_bouldin_score: 0.754593234972355
+Clusters: 5
+silhouette_score: 0.4582764125192349
+calinski harabasz score: 575.2429309539815
+davies_bouldin_score: 0.765071847648122
+Clusters: 6
+silhouette_score: 0.4435886092118693
+calinski harabasz score: 465.9777057094669
+davies_bouldin_score: 0.8111075393109094
+Clusters: 7
+silhouette_score: 0.4237016194514041
+calinski harabasz score: 387.8521598817355
+davies_bouldin_score: 0.7750960934925729
+Clusters: 8
+silhouette_score: 0.402483495912733
+calinski harabasz score: 336.7290739512398
+davies_bouldin_score: 0.8811582104873228
+Clusters: 9
+silhouette_score: 0.4226222150293438
+calinski harabasz score: 351.98708034089657
+davies_bouldin_score: 1.1170163497125196
+Clusters: 10
+silhouette_score: 0.43554160212853593
+calinski harabasz score: 361.047901672436
+davies_bouldin_score: 1.5919587258111203
+Clusters: 11
+silhouette_score: 0.4474919682273827
+calinski harabasz score: 406.8174942640758
+davies_bouldin_score: 1.4671977176897173
+Clusters: 12
+silhouette_score: 0.44327068004520864
+calinski harabasz score: 369.3271949115183
+davies_bouldin_score: 3.5508208550406444
+Clusters: 13
+silhouette_score: 0.4568564778634301
+calinski harabasz score: 357.38612447706953
+davies_bouldin_score: 3.3429691720569776
+Clusters: 14
+silhouette_score: 0.4666493133348586
+calinski harabasz score: 381.667344509224
+davies_bouldin_score: 3.2358770740477962
+Clusters: 15
+silhouette_score: 0.4653667926230018
+calinski harabasz score: 366.49188415713036
+davies_bouldin_score: 3.0968206035092565
+Clusters: 16
+silhouette_score: 0.4619209610275521
+calinski harabasz score: 341.54028746955186
+davies_bouldin_score: 3.5526267064607877
+Clusters: 17
+silhouette_score: 0.4356388852952639
+calinski harabasz score: 323.5234460798977
+davies_bouldin_score: 3.334092872305664
+Clusters: 18
+silhouette_score: 0.4296351908129484
+calinski harabasz score: 304.550935049746
+davies_bouldin_score: 3.305398606811564
+Clusters: 19
+silhouette_score: 0.4251221359967771
+calinski harabasz score: 287.63491107326666
+davies_bouldin_score: 3.242181762103327
+centroid braycurtis
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.6548078102434818
+calinski harabasz score: 434.5398135419685
+davies_bouldin_score: 1.0420474698252413
+Clusters: 3
+silhouette_score: 0.5550881892585544
+calinski harabasz score: 533.3953846215582
+davies_bouldin_score: 0.7344679920623768
+Clusters: 4
+silhouette_score: 0.561822825619686
+calinski harabasz score: 875.1910700646552
+davies_bouldin_score: 0.7394283628005842
+Clusters: 5
+silhouette_score: 0.5369905131855569
+calinski harabasz score: 771.2953280792592
+davies_bouldin_score: 0.7559600505528544
+Clusters: 6
+silhouette_score: 0.5173128449037102
+calinski harabasz score: 760.4009699879545
+davies_bouldin_score: 0.6621716604635975
+Clusters: 7
+silhouette_score: 0.49433339752973343
+calinski harabasz score: 697.1618820187999
+davies_bouldin_score: 0.7185715181613954
+Clusters: 8
+silhouette_score: 0.5203180867355985
+calinski harabasz score: 776.8747075364113
+davies_bouldin_score: 0.6539873177910411
+Clusters: 9
+silhouette_score: 0.5113043951857337
+calinski harabasz score: 692.0951858201662
+davies_bouldin_score: 0.6324534834218897
+Clusters: 10
+silhouette_score: 0.514550993159561
+calinski harabasz score: 621.5467542442004
+davies_bouldin_score: 0.6281759589080366
+Clusters: 11
+silhouette_score: 0.5146715797902526
+calinski harabasz score: 1126.7543766288368
+davies_bouldin_score: 0.6281142548683841
+Clusters: 12
+silhouette_score: 0.5108028081690917
+calinski harabasz score: 1046.6002032397896
+davies_bouldin_score: 0.6613504996112165
+Clusters: 13
+silhouette_score: 0.4881007414986556
+calinski harabasz score: 1009.3138477062327
+davies_bouldin_score: 0.6721372266248006
+Clusters: 14
+silhouette_score: 0.4814201600863144
+calinski harabasz score: 930.572737847289
+davies_bouldin_score: 0.6505951974201779
+Clusters: 15
+silhouette_score: 0.47847719136574024
+calinski harabasz score: 864.5039679642083
+davies_bouldin_score: 0.681401194116655
+Clusters: 16
+silhouette_score: 0.48467878501810824
+calinski harabasz score: 854.415233607901
+davies_bouldin_score: 0.654019118380468
+Clusters: 17
+silhouette_score: 0.48580250959968385
+calinski harabasz score: 862.3474153376304
+davies_bouldin_score: 0.6642405559102013
+Clusters: 18
+silhouette_score: 0.48764621081446435
+calinski harabasz score: 811.8032594124381
+davies_bouldin_score: 0.6317102322036575
+Clusters: 19
+silhouette_score: 0.46464134200708895
+calinski harabasz score: 767.2302830589564
+davies_bouldin_score: 0.6234803053966684
+weighted sqeuclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.593999721971792
+calinski harabasz score: 476.5692129653456
+davies_bouldin_score: 0.7671729353021625
+Clusters: 3
+silhouette_score: 0.6611182964524442
+calinski harabasz score: 818.3484681020996
+davies_bouldin_score: 0.7176927819014067
+Clusters: 4
+silhouette_score: 0.48971573427327714
+calinski harabasz score: 735.2726896256555
+davies_bouldin_score: 0.6751857700527988
+Clusters: 5
+silhouette_score: 0.5251485469174373
+calinski harabasz score: 877.7260954070716
+davies_bouldin_score: 0.7124760071813592
+Clusters: 6
+silhouette_score: 0.5448245332820627
+calinski harabasz score: 826.1874603581335
+davies_bouldin_score: 0.6400790965611854
+Clusters: 7
+silhouette_score: 0.5854502518578352
+calinski harabasz score: 1008.8690181644273
+davies_bouldin_score: 0.658610248203254
+Clusters: 8
+silhouette_score: 0.6132044109785061
+calinski harabasz score: 1199.9607422075712
+davies_bouldin_score: 0.6886596351962733
+Clusters: 9
+silhouette_score: 0.5932224845886025
+calinski harabasz score: 1145.3836523329767
+davies_bouldin_score: 0.6600582265617281
+Clusters: 10
+silhouette_score: 0.5862216458127925
+calinski harabasz score: 1174.7084553879815
+davies_bouldin_score: 0.6789023329799917
+Clusters: 11
+silhouette_score: 0.5010921878495863
+calinski harabasz score: 1126.5375250961256
+davies_bouldin_score: 0.7351097678562817
+Clusters: 12
+silhouette_score: 0.5259366178794843
+calinski harabasz score: 1251.490844750348
+davies_bouldin_score: 0.7201076105982965
+Clusters: 13
+silhouette_score: 0.4993866597091947
+calinski harabasz score: 1205.096081662427
+davies_bouldin_score: 0.7131288023726934
+Clusters: 14
+silhouette_score: 0.4999049662676982
+calinski harabasz score: 1196.4515302151426
+davies_bouldin_score: 0.7496254102166819
+Clusters: 15
+silhouette_score: 0.5101425851064204
+calinski harabasz score: 1250.1541673117833
+davies_bouldin_score: 0.7959405769040762
+Clusters: 16
+silhouette_score: 0.5312218424041147
+calinski harabasz score: 1289.2513984817078
+davies_bouldin_score: 0.7882474096447483
+Clusters: 17
+silhouette_score: 0.5346728027632666
+calinski harabasz score: 1321.3043340686465
+davies_bouldin_score: 0.820916062766361
+Clusters: 18
+silhouette_score: 0.5244247992308914
+calinski harabasz score: 1295.0432805651856
+davies_bouldin_score: 0.8312306061629575
+Clusters: 19
+silhouette_score: 0.5214982048029745
+calinski harabasz score: 1290.0678860345386
+davies_bouldin_score: 0.8111254395761199
+weighted euclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.38679415
+calinski harabasz score: 425.275818804091
+davies_bouldin_score: 1.034700420514694
+Clusters: 3
+silhouette_score: 0.41667432
+calinski harabasz score: 563.271077294353
+davies_bouldin_score: 0.7360389888106512
+Clusters: 4
+silhouette_score: 0.43286315
+calinski harabasz score: 774.0686668870729
+davies_bouldin_score: 0.6845718037893503
+Clusters: 5
+silhouette_score: 0.44952977
+calinski harabasz score: 941.4650795233536
+davies_bouldin_score: 0.685631295150858
+Clusters: 6
+silhouette_score: 0.42536774
+calinski harabasz score: 1001.5739736105829
+davies_bouldin_score: 0.7484862405449446
+Clusters: 7
+silhouette_score: 0.4232356
+calinski harabasz score: 1004.0416925272258
+davies_bouldin_score: 0.780090065672539
+Clusters: 8
+silhouette_score: 0.4537277
+calinski harabasz score: 1116.0518394808344
+davies_bouldin_score: 0.731924500890415
+Clusters: 9
+silhouette_score: 0.41168857
+calinski harabasz score: 1086.376442859351
+davies_bouldin_score: 0.7351681515280637
+Clusters: 10
+silhouette_score: 0.42300218
+calinski harabasz score: 1103.189904937083
+davies_bouldin_score: 0.7771744612765501
+Clusters: 11
+silhouette_score: 0.4148204
+calinski harabasz score: 1184.6101076496573
+davies_bouldin_score: 0.7534344566466309
+Clusters: 12
+silhouette_score: 0.42338797
+calinski harabasz score: 1148.5985257823982
+davies_bouldin_score: 0.7525444615790553
+Clusters: 13
+silhouette_score: 0.41543117
+calinski harabasz score: 1158.7757137850215
+davies_bouldin_score: 0.8028123571695538
+Clusters: 14
+silhouette_score: 0.41497636
+calinski harabasz score: 1128.9190882602531
+davies_bouldin_score: 0.7919799523778046
+Clusters: 15
+silhouette_score: 0.39199236
+calinski harabasz score: 1186.0418943704549
+davies_bouldin_score: 0.8149172918440907
+Clusters: 16
+silhouette_score: 0.3944091
+calinski harabasz score: 1224.7069945004923
+davies_bouldin_score: 0.7984958992970398
+Clusters: 17
+silhouette_score: 0.40891093
+calinski harabasz score: 1398.8688302489602
+davies_bouldin_score: 0.7991283770162534
+Clusters: 18
+silhouette_score: 0.40060335
+calinski harabasz score: 1371.6356499878957
+davies_bouldin_score: 0.7888776098012745
+Clusters: 19
+silhouette_score: 0.39970016
+calinski harabasz score: 1357.3678885578333
+davies_bouldin_score: 0.7783050885453131
+weighted cityblock
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.42187797537104266
+calinski harabasz score: 505.9803059287034
+davies_bouldin_score: 0.8953352071559003
+Clusters: 3
+silhouette_score: 0.52132693100631
+calinski harabasz score: 841.8913044145291
+davies_bouldin_score: 0.647098443031206
+Clusters: 4
+silhouette_score: 0.48539566528206496
+calinski harabasz score: 945.9901381687756
+davies_bouldin_score: 0.6469988296104925
+Clusters: 5
+silhouette_score: 0.44978809460756086
+calinski harabasz score: 934.5067147224058
+davies_bouldin_score: 0.7037147074457291
+Clusters: 6
+silhouette_score: 0.4382251061725273
+calinski harabasz score: 1056.0431983869119
+davies_bouldin_score: 0.7715718593957384
+Clusters: 7
+silhouette_score: 0.45390714168867113
+calinski harabasz score: 1030.0605545913156
+davies_bouldin_score: 0.6893673012384657
+Clusters: 8
+silhouette_score: 0.41032657006196904
+calinski harabasz score: 1018.2655386267909
+davies_bouldin_score: 0.694399870976931
+Clusters: 9
+silhouette_score: 0.43137986884044166
+calinski harabasz score: 1156.897725272227
+davies_bouldin_score: 0.6818422039056423
+Clusters: 10
+silhouette_score: 0.41703668979638203
+calinski harabasz score: 1191.1569204996783
+davies_bouldin_score: 0.6809695881995058
+Clusters: 11
+silhouette_score: 0.4347735843635144
+calinski harabasz score: 1320.308401474868
+davies_bouldin_score: 0.7251519972112787
+Clusters: 12
+silhouette_score: 0.43639892447092304
+calinski harabasz score: 1290.795311968942
+davies_bouldin_score: 0.7383791911287946
+Clusters: 13
+silhouette_score: 0.40697739926591187
+calinski harabasz score: 1249.6925364189065
+davies_bouldin_score: 0.7602315033271091
+Clusters: 14
+silhouette_score: 0.40421022209208474
+calinski harabasz score: 1219.5083265486687
+davies_bouldin_score: 0.7554609647642315
+Clusters: 15
+silhouette_score: 0.40261386766222323
+calinski harabasz score: 1252.8953889136328
+davies_bouldin_score: 0.7931286909733568
+Clusters: 16
+silhouette_score: 0.3935001905854509
+calinski harabasz score: 1278.7814453855826
+davies_bouldin_score: 0.8061322202874295
+Clusters: 17
+silhouette_score: 0.38598443701788654
+calinski harabasz score: 1235.6272825094181
+davies_bouldin_score: 0.7955391698071046
+Clusters: 18
+silhouette_score: 0.37965306940018234
+calinski harabasz score: 1315.0378715424742
+davies_bouldin_score: 0.808374786077024
+Clusters: 19
+silhouette_score: 0.3869771699758963
+calinski harabasz score: 1307.3307568663467
+davies_bouldin_score: 0.8140219860485672
+weighted seuclidean
+Можлива к-ть класів
+weighted cosine
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.62320274
+calinski harabasz score: 479.21203005592093
+davies_bouldin_score: 0.9775548116587911
+Clusters: 3
+silhouette_score: 0.70760566
+calinski harabasz score: 656.2632258782118
+davies_bouldin_score: 0.685929913860762
+Clusters: 4
+silhouette_score: 0.72824335
+calinski harabasz score: 892.9933252310847
+davies_bouldin_score: 0.7024579424974242
+Clusters: 5
+silhouette_score: 0.66844606
+calinski harabasz score: 803.344805474803
+davies_bouldin_score: 0.7675946281424133
+Clusters: 6
+silhouette_score: 0.6222117
+calinski harabasz score: 731.083588763241
+davies_bouldin_score: 0.767360494699461
+Clusters: 7
+silhouette_score: 0.6653986
+calinski harabasz score: 665.8430802202794
+davies_bouldin_score: 0.7843205657204075
+Clusters: 8
+silhouette_score: 0.6905451
+calinski harabasz score: 725.2683863709324
+davies_bouldin_score: 0.7343595362103752
+Clusters: 9
+silhouette_score: 0.7112295
+calinski harabasz score: 686.8672284411919
+davies_bouldin_score: 0.8099811115678262
+Clusters: 10
+silhouette_score: 0.6883872
+calinski harabasz score: 623.0167287252435
+davies_bouldin_score: 0.9213904450118736
+Clusters: 11
+silhouette_score: 0.68196964
+calinski harabasz score: 745.1148532261993
+davies_bouldin_score: 0.9428271748191631
+Clusters: 12
+silhouette_score: 0.6672302
+calinski harabasz score: 679.9269244564417
+davies_bouldin_score: 0.9525709558388181
+Clusters: 13
+silhouette_score: 0.6740346
+calinski harabasz score: 659.0247373867393
+davies_bouldin_score: 1.0134123623363123
+Clusters: 14
+silhouette_score: 0.6465451
+calinski harabasz score: 613.635031779536
+davies_bouldin_score: 1.061379251089703
+Clusters: 15
+silhouette_score: 0.6329182
+calinski harabasz score: 572.3872806028263
+davies_bouldin_score: 1.1034236999911848
+Clusters: 16
+silhouette_score: 0.63261724
+calinski harabasz score: 541.4842119139647
+davies_bouldin_score: 1.172904201436273
+Clusters: 17
+silhouette_score: 0.60833514
+calinski harabasz score: 519.2945074553154
+davies_bouldin_score: 1.2982436344192874
+Clusters: 18
+silhouette_score: 0.63136345
+calinski harabasz score: 498.64322086162355
+davies_bouldin_score: 1.3388097305763835
+Clusters: 19
+silhouette_score: 0.62888855
+calinski harabasz score: 471.9147994840604
+davies_bouldin_score: 1.4062116957172492
+weighted correlation
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 1.0
+calinski harabasz score: 485.82095592219815
+davies_bouldin_score: 0.9619778922790063
+Clusters: 3
+silhouette_score: 0.2695496822409514
+calinski harabasz score: 242.68521563444102
+davies_bouldin_score: 1.7655501802833016
+Clusters: 4
+silhouette_score: 0.264477690863009
+calinski harabasz score: 161.9561023882131
+davies_bouldin_score: 1.6019977870553883
+Clusters: 5
+silhouette_score: 0.2618665606172806
+calinski harabasz score: 122.09530629156198
+davies_bouldin_score: 1.4185897503596798
+Clusters: 6
+silhouette_score: 0.18949624129079576
+calinski harabasz score: 97.81439708540839
+davies_bouldin_score: 1.3550188380031554
+Clusters: 7
+silhouette_score: 0.18067794608670762
+calinski harabasz score: 81.41101807991065
+davies_bouldin_score: 3.1372425548613854
+Clusters: 8
+silhouette_score: 0.18012742503832102
+calinski harabasz score: 69.75261671000675
+davies_bouldin_score: 2.9490440488345104
+Clusters: 9
+silhouette_score: 0.17942273124289798
+calinski harabasz score: 61.391886022046634
+davies_bouldin_score: 2.6963355294081777
+Clusters: 10
+silhouette_score: 0.16134012515035331
+calinski harabasz score: 54.54084835160711
+davies_bouldin_score: 2.309019813378801
+Clusters: 11
+silhouette_score: 0.16050158389754787
+calinski harabasz score: 49.047992137474374
+davies_bouldin_score: 2.3992545022338176
+Clusters: 12
+silhouette_score: 0.1502046391079786
+calinski harabasz score: 44.67001027625824
+davies_bouldin_score: 1.429192766579691
+Clusters: 13
+silhouette_score: 0.21439258464223335
+calinski harabasz score: 40.92930529880415
+davies_bouldin_score: 2.342971338539284
+Clusters: 14
+silhouette_score: 0.1757964758114447
+calinski harabasz score: 37.8019996687999
+davies_bouldin_score: 4.108264538670616
+Clusters: 15
+silhouette_score: 0.18713239255034328
+calinski harabasz score: 35.47704704258612
+davies_bouldin_score: 4.2746406121953955
+weighted hamming
+Можлива к-ть класів
+weighted chebyshev
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.4529949192049167
+calinski harabasz score: 505.9803059287034
+davies_bouldin_score: 0.8953352071559003
+Clusters: 3
+silhouette_score: 0.44045458830228806
+calinski harabasz score: 683.7112375042432
+davies_bouldin_score: 0.7158865379818571
+Clusters: 4
+silhouette_score: 0.4500205154330207
+calinski harabasz score: 726.5985666609491
+davies_bouldin_score: 0.6669395684309173
+Clusters: 5
+silhouette_score: 0.46989675184928087
+calinski harabasz score: 1028.3177045473196
+davies_bouldin_score: 0.7041810117266972
+Clusters: 6
+silhouette_score: 0.4829601568795283
+calinski harabasz score: 1026.0344937042316
+davies_bouldin_score: 0.6513741075878668
+Clusters: 7
+silhouette_score: 0.47274747048002086
+calinski harabasz score: 1115.3962480218945
+davies_bouldin_score: 0.6341654935909448
+Clusters: 8
+silhouette_score: 0.4736628654369797
+calinski harabasz score: 1198.3833237476904
+davies_bouldin_score: 0.6144330626655532
+Clusters: 9
+silhouette_score: 0.4464524673822973
+calinski harabasz score: 1250.2608313403014
+davies_bouldin_score: 0.6288457481188259
+Clusters: 10
+silhouette_score: 0.4485312279689863
+calinski harabasz score: 1343.8257208944838
+davies_bouldin_score: 0.6841713189652021
+Clusters: 11
+silhouette_score: 0.4408272076539458
+calinski harabasz score: 1303.5513216200131
+davies_bouldin_score: 0.670116167416612
+Clusters: 12
+silhouette_score: 0.4350999983725086
+calinski harabasz score: 1265.433309155585
+davies_bouldin_score: 0.7110303878574765
+Clusters: 13
+silhouette_score: 0.4287839039286377
+calinski harabasz score: 1189.6533788336044
+davies_bouldin_score: 0.703613786264335
+Clusters: 14
+silhouette_score: 0.4240307851148565
+calinski harabasz score: 1166.1297794318502
+davies_bouldin_score: 0.7166334172323163
+Clusters: 15
+silhouette_score: 0.3885308504074434
+calinski harabasz score: 1185.467744234254
+davies_bouldin_score: 0.7590120638212204
+Clusters: 16
+silhouette_score: 0.38617208296997024
+calinski harabasz score: 1211.5903412142436
+davies_bouldin_score: 0.808410940374195
+Clusters: 17
+silhouette_score: 0.3871378771459799
+calinski harabasz score: 1219.4928966104094
+davies_bouldin_score: 0.786161737391619
+Clusters: 18
+silhouette_score: 0.4009917035268796
+calinski harabasz score: 1258.4152680620098
+davies_bouldin_score: 0.7683742778860737
+Clusters: 19
+silhouette_score: 0.3939841025403729
+calinski harabasz score: 1255.758155327556
+davies_bouldin_score: 0.7730006634875484
+weighted canberra
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.3116857315935982
+calinski harabasz score: 505.9803059287034
+davies_bouldin_score: 0.8953352071559003
+Clusters: 3
+silhouette_score: 0.4031131883991022
+calinski harabasz score: 847.5639210581318
+davies_bouldin_score: 0.6441853596975146
+Clusters: 4
+silhouette_score: 0.35654313966446344
+calinski harabasz score: 630.0403375754762
+davies_bouldin_score: 0.7123998448173153
+Clusters: 5
+silhouette_score: 0.33029195245859444
+calinski harabasz score: 608.0820990194134
+davies_bouldin_score: 0.7287357727790678
+Clusters: 6
+silhouette_score: 0.3671843736360531
+calinski harabasz score: 593.2152191837522
+davies_bouldin_score: 0.6327736028081491
+Clusters: 7
+silhouette_score: 0.45604468153877054
+calinski harabasz score: 645.4224078009884
+davies_bouldin_score: 0.717241041301949
+Clusters: 8
+silhouette_score: 0.4681175660166689
+calinski harabasz score: 631.5585810433781
+davies_bouldin_score: 0.8540588899023199
+Clusters: 9
+silhouette_score: 0.45876131865958925
+calinski harabasz score: 552.0918205506691
+davies_bouldin_score: 0.8312390203767726
+Clusters: 10
+silhouette_score: 0.4568786583706248
+calinski harabasz score: 490.66106426021946
+davies_bouldin_score: 0.7947889528117643
+Clusters: 11
+silhouette_score: 0.45142108880769033
+calinski harabasz score: 446.2665149758524
+davies_bouldin_score: 0.943507100788061
+Clusters: 12
+silhouette_score: 0.4517592270332972
+calinski harabasz score: 405.5502468854963
+davies_bouldin_score: 1.5145257891420432
+Clusters: 13
+silhouette_score: 0.441876356321271
+calinski harabasz score: 375.66834739091274
+davies_bouldin_score: 1.6822962633460752
+Clusters: 14
+silhouette_score: 0.4579594756542998
+calinski harabasz score: 365.45653170230776
+davies_bouldin_score: 1.64086290043988
+Clusters: 15
+silhouette_score: 0.4502014888527955
+calinski harabasz score: 338.8297507488889
+davies_bouldin_score: 1.9366975720102364
+Clusters: 16
+silhouette_score: 0.4446701282826908
+calinski harabasz score: 317.5182807726483
+davies_bouldin_score: 1.9160487292545652
+Clusters: 17
+silhouette_score: 0.43409829742149636
+calinski harabasz score: 297.5724589319359
+davies_bouldin_score: 1.8315148384350959
+Clusters: 18
+silhouette_score: 0.4295312785031256
+calinski harabasz score: 280.04108097357806
+davies_bouldin_score: 1.869871734308061
+Clusters: 19
+silhouette_score: 0.42828134934999135
+calinski harabasz score: 265.57674028764524
+davies_bouldin_score: 1.8003786267921145
+weighted braycurtis
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.4811752126120931
+calinski harabasz score: 308.9115431061834
+davies_bouldin_score: 1.0285291988368852
+Clusters: 3
+silhouette_score: 0.6212512835727396
+calinski harabasz score: 860.2785528463154
+davies_bouldin_score: 0.671161474386218
+Clusters: 4
+silhouette_score: 0.5235188066669919
+calinski harabasz score: 728.0528549587788
+davies_bouldin_score: 0.737665526970305
+Clusters: 5
+silhouette_score: 0.4784829685381565
+calinski harabasz score: 673.1286004097
+davies_bouldin_score: 0.7997606618173005
+Clusters: 6
+silhouette_score: 0.4501208944140982
+calinski harabasz score: 628.366233924834
+davies_bouldin_score: 0.7858440150702642
+Clusters: 7
+silhouette_score: 0.46617855653000373
+calinski harabasz score: 639.0559483457415
+davies_bouldin_score: 0.6812548752142638
+Clusters: 8
+silhouette_score: 0.4631922385156723
+calinski harabasz score: 553.3019720020798
+davies_bouldin_score: 0.6575534664046014
+Clusters: 9
+silhouette_score: 0.4476060716172943
+calinski harabasz score: 506.4494328613743
+davies_bouldin_score: 0.7260424415143292
+Clusters: 10
+silhouette_score: 0.48251545677856256
+calinski harabasz score: 533.6477006701086
+davies_bouldin_score: 0.6847983347313912
+Clusters: 11
+silhouette_score: 0.4219160632962087
+calinski harabasz score: 588.294609003918
+davies_bouldin_score: 0.6990475212632732
+Clusters: 12
+silhouette_score: 0.409171215778854
+calinski harabasz score: 538.9789744659039
+davies_bouldin_score: 0.7107936245212477
+Clusters: 13
+silhouette_score: 0.4464827038604926
+calinski harabasz score: 638.6236417231772
+davies_bouldin_score: 0.6917470562839939
+Clusters: 14
+silhouette_score: 0.4428310769585224
+calinski harabasz score: 589.3507838887954
+davies_bouldin_score: 0.720525799285727
+Clusters: 15
+silhouette_score: 0.4227676021702093
+calinski harabasz score: 628.7061914844871
+davies_bouldin_score: 0.7283167730261341
+Clusters: 16
+silhouette_score: 0.4360923477086575
+calinski harabasz score: 652.9835430273521
+davies_bouldin_score: 0.7293326921681742
+Clusters: 17
+silhouette_score: 0.43260276247671187
+calinski harabasz score: 618.5201845812214
+davies_bouldin_score: 0.7483626009288734
+Clusters: 18
+silhouette_score: 0.4464333593379508
+calinski harabasz score: 612.6491459126734
+davies_bouldin_score: 0.7296370592582984
+Clusters: 19
+silhouette_score: 0.44435665124549545
+calinski harabasz score: 600.1543475794714
+davies_bouldin_score: 0.7593274354016553
+average sqeuclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.6064317054983752
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.5930232903369806
+calinski harabasz score: 680.5723299564281
+davies_bouldin_score: 0.6418901134722229
+Clusters: 4
+silhouette_score: 0.6210767757769328
+calinski harabasz score: 810.2591960222276
+davies_bouldin_score: 0.7862209666697724
+Clusters: 5
+silhouette_score: 0.5504544673907119
+calinski harabasz score: 841.3173066494696
+davies_bouldin_score: 0.7489013708384811
+Clusters: 6
+silhouette_score: 0.5881723468816864
+calinski harabasz score: 1040.7518958661346
+davies_bouldin_score: 0.6644564364971594
+Clusters: 7
+silhouette_score: 0.6218826357042445
+calinski harabasz score: 1130.737872515737
+davies_bouldin_score: 0.6239071861706859
+Clusters: 8
+silhouette_score: 0.6508954634606645
+calinski harabasz score: 1252.5187963054007
+davies_bouldin_score: 0.6004220067999733
+Clusters: 9
+silhouette_score: 0.6538164991928407
+calinski harabasz score: 1331.3621265481036
+davies_bouldin_score: 0.6579874722847359
+Clusters: 10
+silhouette_score: 0.6465009467402281
+calinski harabasz score: 1397.6078045238476
+davies_bouldin_score: 0.6549409868604268
+Clusters: 11
+silhouette_score: 0.6265198115127242
+calinski harabasz score: 1369.9972732899191
+davies_bouldin_score: 0.6485939050595946
+Clusters: 12
+silhouette_score: 0.6043323510199976
+calinski harabasz score: 1396.0705713696586
+davies_bouldin_score: 0.6893742277759225
+Clusters: 13
+silhouette_score: 0.603593677275046
+calinski harabasz score: 1401.0124164087977
+davies_bouldin_score: 0.7107689045866791
+Clusters: 14
+silhouette_score: 0.5922260136967544
+calinski harabasz score: 1429.0143669205686
+davies_bouldin_score: 0.7573926012825012
+Clusters: 15
+silhouette_score: 0.5963942789739956
+calinski harabasz score: 1452.4191261141493
+davies_bouldin_score: 0.7687597762392875
+Clusters: 16
+silhouette_score: 0.5822272568948781
+calinski harabasz score: 1439.8735838909945
+davies_bouldin_score: 0.7577925969459499
+Clusters: 17
+silhouette_score: 0.5706096776620379
+calinski harabasz score: 1404.2027487452901
+davies_bouldin_score: 0.7479035170246211
+Clusters: 18
+silhouette_score: 0.5610030661195518
+calinski harabasz score: 1394.1972720465383
+davies_bouldin_score: 0.7504634061425386
+Clusters: 19
+silhouette_score: 0.5661469871223197
+calinski harabasz score: 1413.6936349602643
+davies_bouldin_score: 0.7414098434648139
+average euclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.451106
+calinski harabasz score: 504.9273221502503
+davies_bouldin_score: 0.7847306500400807
+Clusters: 3
+silhouette_score: 0.4596893
+calinski harabasz score: 680.5723299564281
+davies_bouldin_score: 0.6418901134722229
+Clusters: 4
+silhouette_score: 0.4644711
+calinski harabasz score: 810.2591960222276
+davies_bouldin_score: 0.7862209666697724
+Clusters: 5
+silhouette_score: 0.42592564
+calinski harabasz score: 841.3657379856456
+davies_bouldin_score: 0.7493569130326744
+Clusters: 6
+silhouette_score: 0.45304593
+calinski harabasz score: 1040.835000886355
+davies_bouldin_score: 0.6647717677536017
+Clusters: 7
+silhouette_score: 0.47811314
+calinski harabasz score: 1130.8501485240472
+davies_bouldin_score: 0.6241482952422925
+Clusters: 8
+silhouette_score: 0.4857799
+calinski harabasz score: 1252.6739074678908
+davies_bouldin_score: 0.6006329772376292
+Clusters: 9
+silhouette_score: 0.4803357
+calinski harabasz score: 1331.558219472694
+davies_bouldin_score: 0.6578381046276817
+Clusters: 10
+silhouette_score: 0.46302965
+calinski harabasz score: 1369.4866585747855
+davies_bouldin_score: 0.6640160294985342
+Clusters: 11
+silhouette_score: 0.45168573
+calinski harabasz score: 1340.1996995297754
+davies_bouldin_score: 0.6568439438215105
+Clusters: 12
+silhouette_score: 0.45456573
+calinski harabasz score: 1322.5808829237883
+davies_bouldin_score: 0.668397058908575
+Clusters: 13
+silhouette_score: 0.43416876
+calinski harabasz score: 1368.8024898088747
+davies_bouldin_score: 0.7045171141968022
+Clusters: 14
+silhouette_score: 0.42179185
+calinski harabasz score: 1392.9716010675404
+davies_bouldin_score: 0.751587367349044
+Clusters: 15
+silhouette_score: 0.42511022
+calinski harabasz score: 1412.563017437214
+davies_bouldin_score: 0.7633415579013941
+Clusters: 16
+silhouette_score: 0.42851493
+calinski harabasz score: 1441.6760204242744
+davies_bouldin_score: 0.7528750290910823
+Clusters: 17
+silhouette_score: 0.42655888
+calinski harabasz score: 1437.0797508424898
+davies_bouldin_score: 0.7562111668677675
+Clusters: 18
+silhouette_score: 0.4186391
+calinski harabasz score: 1410.696200961932
+davies_bouldin_score: 0.746959337501967
+Clusters: 19
+silhouette_score: 0.41943008
+calinski harabasz score: 1430.6217032178208
+davies_bouldin_score: 0.7403655198966986
+average cityblock
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.43082066125787066
+calinski harabasz score: 363.18643541015706
+davies_bouldin_score: 0.6359318552316765
+Clusters: 3
+silhouette_score: 0.41121270037543517
+calinski harabasz score: 502.5380753315785
+davies_bouldin_score: 0.5931417772734235
+Clusters: 4
+silhouette_score: 0.41887650575325336
+calinski harabasz score: 676.9741691732881
+davies_bouldin_score: 0.8051270938614316
+Clusters: 5
+silhouette_score: 0.4439416993195981
+calinski harabasz score: 857.8075448145503
+davies_bouldin_score: 0.6858545173869575
+Clusters: 6
+silhouette_score: 0.44830097881665576
+calinski harabasz score: 1006.9226678105886
+davies_bouldin_score: 0.6713595494838723
+Clusters: 7
+silhouette_score: 0.4696765448480585
+calinski harabasz score: 1085.3986202601595
+davies_bouldin_score: 0.6302085127772992
+Clusters: 8
+silhouette_score: 0.4860263117971016
+calinski harabasz score: 1190.5028961384123
+davies_bouldin_score: 0.6055409634443326
+Clusters: 9
+silhouette_score: 0.4844103505354799
+calinski harabasz score: 1266.4867532532014
+davies_bouldin_score: 0.662816792468122
+Clusters: 10
+silhouette_score: 0.4751835571111775
+calinski harabasz score: 1399.8046423639778
+davies_bouldin_score: 0.6638929252021926
+Clusters: 11
+silhouette_score: 0.4555221531936261
+calinski harabasz score: 1372.9965909275345
+davies_bouldin_score: 0.6737436670189024
+Clusters: 12
+silhouette_score: 0.4283990160860649
+calinski harabasz score: 1392.6605134860947
+davies_bouldin_score: 0.7193030716378467
+Clusters: 13
+silhouette_score: 0.43023252467140716
+calinski harabasz score: 1387.550124293004
+davies_bouldin_score: 0.7239953527405473
+Clusters: 14
+silhouette_score: 0.4185405267853027
+calinski harabasz score: 1413.930053671211
+davies_bouldin_score: 0.7640043961665111
+Clusters: 15
+silhouette_score: 0.4251733351261239
+calinski harabasz score: 1444.5213424956135
+davies_bouldin_score: 0.7798145919319726
+Clusters: 16
+silhouette_score: 0.42258694466514835
+calinski harabasz score: 1427.6789755444972
+davies_bouldin_score: 0.7822776977843731
+Clusters: 17
+silhouette_score: 0.42320878593859135
+calinski harabasz score: 1428.0929835868549
+davies_bouldin_score: 0.7759385519541254
+Clusters: 18
+silhouette_score: 0.42191917306889754
+calinski harabasz score: 1431.4497665846914
+davies_bouldin_score: 0.7782871820585461
+Clusters: 19
+silhouette_score: 0.4239243572477694
+calinski harabasz score: 1432.5530206351916
+davies_bouldin_score: 0.762040079336579
+average seuclidean
+Можлива к-ть класів
+average cosine
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.6033341
+calinski harabasz score: 506.7321468121174
+davies_bouldin_score: 0.8982305698676228
+Clusters: 3
+silhouette_score: 0.765449
+calinski harabasz score: 830.9867479211038
+davies_bouldin_score: 0.648727200945795
+Clusters: 4
+silhouette_score: 0.7093992
+calinski harabasz score: 672.8027893080506
+davies_bouldin_score: 0.6999657834089658
+Clusters: 5
+silhouette_score: 0.6802736
+calinski harabasz score: 745.3609444348916
+davies_bouldin_score: 0.7077908405548007
+Clusters: 6
+silhouette_score: 0.6503059
+calinski harabasz score: 641.223152417057
+davies_bouldin_score: 0.7102179056321404
+Clusters: 7
+silhouette_score: 0.6791659
+calinski harabasz score: 612.3270987409678
+davies_bouldin_score: 0.7270564758531365
+Clusters: 8
+silhouette_score: 0.7272964
+calinski harabasz score: 633.8544448393384
+davies_bouldin_score: 0.7386866510538642
+Clusters: 9
+silhouette_score: 0.70409644
+calinski harabasz score: 744.6597138415423
+davies_bouldin_score: 0.7775663506125134
+Clusters: 10
+silhouette_score: 0.7199703
+calinski harabasz score: 714.7343510158294
+davies_bouldin_score: 0.8917319803616721
+Clusters: 11
+silhouette_score: 0.7039856
+calinski harabasz score: 650.4387172842864
+davies_bouldin_score: 1.0252263071675152
+Clusters: 12
+silhouette_score: 0.7138581
+calinski harabasz score: 605.6365205093541
+davies_bouldin_score: 1.0408257333305737
+Clusters: 13
+silhouette_score: 0.693485
+calinski harabasz score: 642.1719856873642
+davies_bouldin_score: 1.0227712287516129
+Clusters: 14
+silhouette_score: 0.69220394
+calinski harabasz score: 611.6873504969965
+davies_bouldin_score: 1.0772931016081944
+Clusters: 15
+silhouette_score: 0.68027496
+calinski harabasz score: 575.6407346895015
+davies_bouldin_score: 1.157291424059047
+Clusters: 16
+silhouette_score: 0.6832811
+calinski harabasz score: 539.7298218548104
+davies_bouldin_score: 1.280638810369103
+Clusters: 17
+silhouette_score: 0.6638098
+calinski harabasz score: 513.9346861632687
+davies_bouldin_score: 1.4066624750288954
+Clusters: 18
+silhouette_score: 0.6726988
+calinski harabasz score: 486.3989187178416
+davies_bouldin_score: 1.4489474595871352
+Clusters: 19
+silhouette_score: 0.6706655
+calinski harabasz score: 461.4873095771974
+davies_bouldin_score: 1.4592461636805114
+average correlation
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 1.0
+calinski harabasz score: 485.82095592219815
+davies_bouldin_score: 0.9619778922790063
+Clusters: 3
+silhouette_score: 0.5288869796070516
+calinski harabasz score: 242.82393826412505
+davies_bouldin_score: 1.4019718001100727
+Clusters: 4
+silhouette_score: 0.4580370329850665
+calinski harabasz score: 162.04642935001775
+davies_bouldin_score: 1.3370412120612079
+Clusters: 5
+silhouette_score: 0.39267527860819323
+calinski harabasz score: 121.6869889969843
+davies_bouldin_score: 1.288579415046156
+Clusters: 6
+silhouette_score: 0.3462412907957462
+calinski harabasz score: 97.85290827130584
+davies_bouldin_score: 1.192563726993204
+Clusters: 7
+silhouette_score: 0.3001760482454931
+calinski harabasz score: 81.50478078528289
+davies_bouldin_score: 1.2736357185121874
+Clusters: 8
+silhouette_score: 0.271293120932205
+calinski harabasz score: 70.27026138855597
+davies_bouldin_score: 1.1997110153153296
+Clusters: 9
+silhouette_score: 0.2651842915383975
+calinski harabasz score: 61.44039341600807
+davies_bouldin_score: 1.304982718370959
+Clusters: 10
+silhouette_score: 0.31852839355116364
+calinski harabasz score: 54.59165044568439
+davies_bouldin_score: 2.5127604357174906
+Clusters: 11
+silhouette_score: 0.26119735065191196
+calinski harabasz score: 49.092824941468805
+davies_bouldin_score: 2.4683282864176688
+Clusters: 12
+silhouette_score: 0.23300792634159942
+calinski harabasz score: 44.658888797352475
+davies_bouldin_score: 4.547451739198984
+Clusters: 13
+silhouette_score: 0.23169167422480888
+calinski harabasz score: 40.89888509143774
+davies_bouldin_score: 4.396583796409116
+average hamming
+Можлива к-ть класів
+average chebyshev
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.435660395121426
+calinski harabasz score: 375.8316139485229
+davies_bouldin_score: 0.6504477556860037
+Clusters: 3
+silhouette_score: 0.42642528123039425
+calinski harabasz score: 607.5802216135344
+davies_bouldin_score: 0.8102657957496714
+Clusters: 4
+silhouette_score: 0.4419719549568758
+calinski harabasz score: 718.677330215096
+davies_bouldin_score: 0.672388283313423
+Clusters: 5
+silhouette_score: 0.4622424601823687
+calinski harabasz score: 1011.3284254377409
+davies_bouldin_score: 0.709548252763079
+Clusters: 6
+silhouette_score: 0.47575605489621225
+calinski harabasz score: 1005.9835455047369
+davies_bouldin_score: 0.6558468084515182
+Clusters: 7
+silhouette_score: 0.45473940233560867
+calinski harabasz score: 962.3159024336999
+davies_bouldin_score: 0.6602605414046261
+Clusters: 8
+silhouette_score: 0.44802049718595355
+calinski harabasz score: 1110.4679428316485
+davies_bouldin_score: 0.6437505739830567
+Clusters: 9
+silhouette_score: 0.4489876307599309
+calinski harabasz score: 1262.121924708241
+davies_bouldin_score: 0.6249279037980783
+Clusters: 10
+silhouette_score: 0.45766942969406194
+calinski harabasz score: 1366.5467572608154
+davies_bouldin_score: 0.6722043526359333
+Clusters: 11
+silhouette_score: 0.45048475382046654
+calinski harabasz score: 1327.2106832834786
+davies_bouldin_score: 0.6592371071172767
+Clusters: 12
+silhouette_score: 0.43995082938437
+calinski harabasz score: 1292.5438805122758
+davies_bouldin_score: 0.7417756403938675
+Clusters: 13
+silhouette_score: 0.41205724587908366
+calinski harabasz score: 1315.7450327415168
+davies_bouldin_score: 0.799334804372543
+Clusters: 14
+silhouette_score: 0.4165193089835395
+calinski harabasz score: 1327.764588745867
+davies_bouldin_score: 0.7792509534490158
+Clusters: 15
+silhouette_score: 0.4075806300067243
+calinski harabasz score: 1323.219824321815
+davies_bouldin_score: 0.7846690178174499
+Clusters: 16
+silhouette_score: 0.4023723909371024
+calinski harabasz score: 1277.4053563991586
+davies_bouldin_score: 0.7740406146505241
+Clusters: 17
+silhouette_score: 0.4003908655445785
+calinski harabasz score: 1301.4732639246406
+davies_bouldin_score: 0.8192850710507609
+Clusters: 18
+silhouette_score: 0.39875394258208946
+calinski harabasz score: 1285.7253691629737
+davies_bouldin_score: 0.7783471514914394
+Clusters: 19
+silhouette_score: 0.39737125910405213
+calinski harabasz score: 1292.241058881467
+davies_bouldin_score: 0.7789485104991757
+average canberra
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.3837816150216423
+calinski harabasz score: 326.1720956095028
+davies_bouldin_score: 1.242514487985167
+Clusters: 3
+silhouette_score: 0.3992132260707568
+calinski harabasz score: 756.1426501239308
+davies_bouldin_score: 0.685134984728253
+Clusters: 4
+silhouette_score: 0.4741885222950035
+calinski harabasz score: 764.4839540619416
+davies_bouldin_score: 0.8008706831382175
+Clusters: 5
+silhouette_score: 0.4587400475408743
+calinski harabasz score: 574.5172517636018
+davies_bouldin_score: 0.7651802894532729
+Clusters: 6
+silhouette_score: 0.43047853691696225
+calinski harabasz score: 465.7434250303126
+davies_bouldin_score: 0.9016815747287326
+Clusters: 7
+silhouette_score: 0.4032020127286023
+calinski harabasz score: 389.6923328751785
+davies_bouldin_score: 0.869056213908821
+Clusters: 8
+silhouette_score: 0.401734227292899
+calinski harabasz score: 344.7834694384867
+davies_bouldin_score: 0.8816220480488015
+Clusters: 9
+silhouette_score: 0.4137585642521581
+calinski harabasz score: 343.1202518936378
+davies_bouldin_score: 1.2234984545571892
+Clusters: 10
+silhouette_score: 0.4354689290702297
+calinski harabasz score: 371.753922831685
+davies_bouldin_score: 1.3985156513674908
+Clusters: 11
+silhouette_score: 0.4267062584944335
+calinski harabasz score: 342.917562249658
+davies_bouldin_score: 1.424768771520116
+Clusters: 12
+silhouette_score: 0.42285354747258236
+calinski harabasz score: 311.30470047809814
+davies_bouldin_score: 1.9189404673157586
+Clusters: 13
+silhouette_score: 0.41828371023654676
+calinski harabasz score: 285.04832196614797
+davies_bouldin_score: 1.9136029939497747
+Clusters: 14
+silhouette_score: 0.4180683933363072
+calinski harabasz score: 268.60008238266687
+davies_bouldin_score: 1.8512026453061352
+Clusters: 15
+silhouette_score: 0.45239927884609277
+calinski harabasz score: 323.39525776444754
+davies_bouldin_score: 1.688073748491747
+Clusters: 16
+silhouette_score: 0.4492795409390687
+calinski harabasz score: 301.36882615704974
+davies_bouldin_score: 3.1470212809041938
+Clusters: 17
+silhouette_score: 0.46159640860317064
+calinski harabasz score: 302.98563945046595
+davies_bouldin_score: 3.164946513825625
+Clusters: 18
+silhouette_score: 0.4353129557049543
+calinski harabasz score: 287.9830610011851
+davies_bouldin_score: 2.980091236714406
+Clusters: 19
+silhouette_score: 0.4316768706651576
+calinski harabasz score: 271.5390053726481
+davies_bouldin_score: 3.6494363516511625
+average braycurtis
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.4221069498533094
+calinski harabasz score: 508.30441477739
+davies_bouldin_score: 0.793705235335093
+Clusters: 3
+silhouette_score: 0.5824623033561894
+calinski harabasz score: 900.7245841566389
+davies_bouldin_score: 0.6696374032168343
+Clusters: 4
+silhouette_score: 0.5623036216100831
+calinski harabasz score: 854.1488712191193
+davies_bouldin_score: 0.7461683370026456
+Clusters: 5
+silhouette_score: 0.5362595184554596
+calinski harabasz score: 750.7338635658119
+davies_bouldin_score: 0.7613520299145036
+Clusters: 6
+silhouette_score: 0.4924557455803542
+calinski harabasz score: 624.1021353913472
+davies_bouldin_score: 0.7476388572763121
+Clusters: 7
+silhouette_score: 0.49094339122810887
+calinski harabasz score: 642.2654731848884
+davies_bouldin_score: 0.6809721007723771
+Clusters: 8
+silhouette_score: 0.5103825101370774
+calinski harabasz score: 706.8019617761367
+davies_bouldin_score: 0.6290350484608973
+Clusters: 9
+silhouette_score: 0.5137490842680437
+calinski harabasz score: 624.1870546493234
+davies_bouldin_score: 0.6210778493655023
+Clusters: 10
+silhouette_score: 0.5009928754087034
+calinski harabasz score: 590.3033416607444
+davies_bouldin_score: 0.6309412004626587
+Clusters: 11
+silhouette_score: 0.5010185243655807
+calinski harabasz score: 1064.1191044272477
+davies_bouldin_score: 0.6341073175011049
+Clusters: 12
+silhouette_score: 0.4989679806399979
+calinski harabasz score: 987.2619416669224
+davies_bouldin_score: 0.6642828898379012
+Clusters: 13
+silhouette_score: 0.4965494967196978
+calinski harabasz score: 905.2285714069479
+davies_bouldin_score: 0.6972454361728088
+Clusters: 14
+silhouette_score: 0.4717042463402856
+calinski harabasz score: 876.7466242194766
+davies_bouldin_score: 0.7048616701204572
+Clusters: 15
+silhouette_score: 0.4768286182208813
+calinski harabasz score: 868.9415416579991
+davies_bouldin_score: 0.7086988851382459
+Clusters: 16
+silhouette_score: 0.48494865191395553
+calinski harabasz score: 859.0438729809031
+davies_bouldin_score: 0.6778210796964113
+Clusters: 17
+silhouette_score: 0.477828599764387
+calinski harabasz score: 804.4200173931468
+davies_bouldin_score: 0.6618755791835415
+Clusters: 18
+silhouette_score: 0.46070584360345457
+calinski harabasz score: 795.9758119771138
+davies_bouldin_score: 0.6835664659998053
+Clusters: 19
+silhouette_score: 0.46283077965575725
+calinski harabasz score: 751.86482499048
+davies_bouldin_score: 0.6593437725106313
+complete sqeuclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.5933982226377794
+calinski harabasz score: 506.31028159363876
+davies_bouldin_score: 0.8933937540201841
+Clusters: 3
+silhouette_score: 0.6801075310566955
+calinski harabasz score: 850.2880356123484
+davies_bouldin_score: 0.6446797653940467
+Clusters: 4
+silhouette_score: 0.6725489352281756
+calinski harabasz score: 941.4725612640783
+davies_bouldin_score: 0.62457143183574
+Clusters: 5
+silhouette_score: 0.6292914141311416
+calinski harabasz score: 963.2272620578225
+davies_bouldin_score: 0.6788300944071696
+Clusters: 6
+silhouette_score: 0.5823338434102941
+calinski harabasz score: 1021.3571900158855
+davies_bouldin_score: 0.73168601984871
+Clusters: 7
+silhouette_score: 0.6030505558689019
+calinski harabasz score: 1115.4321499080058
+davies_bouldin_score: 0.6939552707589792
+Clusters: 8
+silhouette_score: 0.590589942828311
+calinski harabasz score: 1170.2833932312515
+davies_bouldin_score: 0.777980810857339
+Clusters: 9
+silhouette_score: 0.6345765435530494
+calinski harabasz score: 1307.889249425571
+davies_bouldin_score: 0.703994771484014
+Clusters: 10
+silhouette_score: 0.6185813571433212
+calinski harabasz score: 1256.4500124040997
+davies_bouldin_score: 0.7158138656823237
+Clusters: 11
+silhouette_score: 0.6076990476634083
+calinski harabasz score: 1241.091529540507
+davies_bouldin_score: 0.6670985520077204
+Clusters: 12
+silhouette_score: 0.607954482484435
+calinski harabasz score: 1275.9415075438833
+davies_bouldin_score: 0.6731965255902557
+Clusters: 13
+silhouette_score: 0.5635833153378477
+calinski harabasz score: 1263.6680265812133
+davies_bouldin_score: 0.6918229657507131
+Clusters: 14
+silhouette_score: 0.5831881225412282
+calinski harabasz score: 1340.1541809446846
+davies_bouldin_score: 0.698608907185965
+Clusters: 15
+silhouette_score: 0.5842357980781893
+calinski harabasz score: 1386.5061977280243
+davies_bouldin_score: 0.7183321324442029
+Clusters: 16
+silhouette_score: 0.5705248739147326
+calinski harabasz score: 1398.3807299411978
+davies_bouldin_score: 0.7698914616906206
+Clusters: 17
+silhouette_score: 0.5784058497050741
+calinski harabasz score: 1459.396955019433
+davies_bouldin_score: 0.7831659106461558
+Clusters: 18
+silhouette_score: 0.5708366156982498
+calinski harabasz score: 1438.7927225240928
+davies_bouldin_score: 0.7964743370198943
+Clusters: 19
+silhouette_score: 0.5717361793266935
+calinski harabasz score: 1463.1390868130763
+davies_bouldin_score: 0.7844877382920884
+complete euclidean
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.43710384
+calinski harabasz score: 506.31028159363876
+davies_bouldin_score: 0.8933937540201841
+Clusters: 3
+silhouette_score: 0.511308
+calinski harabasz score: 850.2880356123484
+davies_bouldin_score: 0.6446797653940467
+Clusters: 4
+silhouette_score: 0.49729058
+calinski harabasz score: 941.4725612640783
+davies_bouldin_score: 0.62457143183574
+Clusters: 5
+silhouette_score: 0.46861032
+calinski harabasz score: 963.2272620578225
+davies_bouldin_score: 0.6788300944071696
+Clusters: 6
+silhouette_score: 0.4375113
+calinski harabasz score: 1021.3571900158855
+davies_bouldin_score: 0.73168601984871
+Clusters: 7
+silhouette_score: 0.45555025
+calinski harabasz score: 1115.4321499080058
+davies_bouldin_score: 0.6939552707589792
+Clusters: 8
+silhouette_score: 0.4348785
+calinski harabasz score: 1170.2833932312515
+davies_bouldin_score: 0.777980810857339
+Clusters: 9
+silhouette_score: 0.46401533
+calinski harabasz score: 1307.889249425571
+davies_bouldin_score: 0.703994771484014
+Clusters: 10
+silhouette_score: 0.45268768
+calinski harabasz score: 1256.4500124040997
+davies_bouldin_score: 0.7158138656823237
+Clusters: 11
+silhouette_score: 0.44976932
+calinski harabasz score: 1241.091529540507
+davies_bouldin_score: 0.6670985520077204
+Clusters: 12
+silhouette_score: 0.44765726
+calinski harabasz score: 1275.9415075438833
+davies_bouldin_score: 0.6731965255902557
+Clusters: 13
+silhouette_score: 0.41335964
+calinski harabasz score: 1263.6680265812133
+davies_bouldin_score: 0.6918229657507131
+Clusters: 14
+silhouette_score: 0.42491046
+calinski harabasz score: 1340.1541809446846
+davies_bouldin_score: 0.698608907185965
+Clusters: 15
+silhouette_score: 0.42052236
+calinski harabasz score: 1386.5061977280243
+davies_bouldin_score: 0.7183321324442029
+Clusters: 16
+silhouette_score: 0.41006023
+calinski harabasz score: 1398.3807299411978
+davies_bouldin_score: 0.7698914616906206
+Clusters: 17
+silhouette_score: 0.41644222
+calinski harabasz score: 1459.396955019433
+davies_bouldin_score: 0.7831659106461558
+Clusters: 18
+silhouette_score: 0.4087358
+calinski harabasz score: 1438.7927225240928
+davies_bouldin_score: 0.7964743370198943
+Clusters: 19
+silhouette_score: 0.41091385
+calinski harabasz score: 1463.1390868130763
+davies_bouldin_score: 0.7844877382920884
+complete cityblock
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.39782473250985
+calinski harabasz score: 288.9738596593196
+davies_bouldin_score: 1.3770676728639748
+Clusters: 3
+silhouette_score: 0.48203085670839624
+calinski harabasz score: 722.7777950198198
+davies_bouldin_score: 0.6422819074836497
+Clusters: 4
+silhouette_score: 0.47311279767127473
+calinski harabasz score: 828.4339667123911
+davies_bouldin_score: 0.778855208412688
+Clusters: 5
+silhouette_score: 0.47094945315746173
+calinski harabasz score: 902.7559816347099
+davies_bouldin_score: 0.6875604498880945
+Clusters: 6
+silhouette_score: 0.4712700420600673
+calinski harabasz score: 1137.7488492334599
+davies_bouldin_score: 0.6744565175220005
+Clusters: 7
+silhouette_score: 0.4955180833156353
+calinski harabasz score: 1220.6878580468133
+davies_bouldin_score: 0.6200981322969538
+Clusters: 8
+silhouette_score: 0.4663212876430199
+calinski harabasz score: 1144.3699186495032
+davies_bouldin_score: 0.6680447526386506
+Clusters: 9
+silhouette_score: 0.44325286083474486
+calinski harabasz score: 1196.8512466470418
+davies_bouldin_score: 0.7090827645157788
+Clusters: 10
+silhouette_score: 0.4233622102726252
+calinski harabasz score: 1191.029089978687
+davies_bouldin_score: 0.7129680131466746
+Clusters: 11
+silhouette_score: 0.41957314950210756
+calinski harabasz score: 1244.304937899423
+davies_bouldin_score: 0.7002028266478969
+Clusters: 12
+silhouette_score: 0.38715032685012823
+calinski harabasz score: 1261.6502276857955
+davies_bouldin_score: 0.7117586432008212
+Clusters: 13
+silhouette_score: 0.3951650709945572
+calinski harabasz score: 1312.2782624048637
+davies_bouldin_score: 0.7176035685088451
+Clusters: 14
+silhouette_score: 0.4051821222817487
+calinski harabasz score: 1319.818968560361
+davies_bouldin_score: 0.7226267365234449
+Clusters: 15
+silhouette_score: 0.4026555593669847
+calinski harabasz score: 1315.0316068689517
+davies_bouldin_score: 0.7585661056320686
+Clusters: 16
+silhouette_score: 0.4041808601829908
+calinski harabasz score: 1342.5334080628036
+davies_bouldin_score: 0.7691494881322078
+Clusters: 17
+silhouette_score: 0.4043626857479847
+calinski harabasz score: 1337.729060097039
+davies_bouldin_score: 0.7632941425763093
+Clusters: 18
+silhouette_score: 0.40560592832795334
+calinski harabasz score: 1444.8471881383114
+davies_bouldin_score: 0.8015814354973545
+Clusters: 19
+silhouette_score: 0.40292270433126043
+calinski harabasz score: 1434.0781018514788
+davies_bouldin_score: 0.7906594859579531
+complete seuclidean
+Можлива к-ть класів
+complete cosine
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.60092145
+calinski harabasz score: 398.5079763521031
+davies_bouldin_score: 1.0773739065103312
+Clusters: 3
+silhouette_score: 0.48985618
+calinski harabasz score: 343.2482291336855
+davies_bouldin_score: 0.8714891003723547
+Clusters: 4
+silhouette_score: 0.62223154
+calinski harabasz score: 697.8778799639001
+davies_bouldin_score: 0.8091858983366739
+Clusters: 5
+silhouette_score: 0.6908333
+calinski harabasz score: 696.5961394188726
+davies_bouldin_score: 0.8837212441387388
+Clusters: 6
+silhouette_score: 0.6853262
+calinski harabasz score: 634.982127988535
+davies_bouldin_score: 0.92467404095293
+Clusters: 7
+silhouette_score: 0.67270553
+calinski harabasz score: 730.294123082946
+davies_bouldin_score: 0.9389414127347303
+Clusters: 8
+silhouette_score: 0.671999
+calinski harabasz score: 783.3631735880932
+davies_bouldin_score: 0.7976072134552618
+Clusters: 9
+silhouette_score: 0.69210756
+calinski harabasz score: 777.8920767434993
+davies_bouldin_score: 0.8048595275871897
+Clusters: 10
+silhouette_score: 0.6693057
+calinski harabasz score: 713.4557581237246
+davies_bouldin_score: 0.8162631116510367
+Clusters: 11
+silhouette_score: 0.6632139
+calinski harabasz score: 656.3331590737737
+davies_bouldin_score: 0.9427123549343094
+Clusters: 12
+silhouette_score: 0.7051582
+calinski harabasz score: 623.3523419193027
+davies_bouldin_score: 1.067932897806652
+Clusters: 13
+silhouette_score: 0.70461935
+calinski harabasz score: 602.8092571941789
+davies_bouldin_score: 1.13696408089999
+Clusters: 14
+silhouette_score: 0.69150007
+calinski harabasz score: 558.4634623277026
+davies_bouldin_score: 1.1268629659859373
+Clusters: 15
+silhouette_score: 0.688404
+calinski harabasz score: 525.5440020531606
+davies_bouldin_score: 1.1459871959101662
+Clusters: 16
+silhouette_score: 0.6956434
+calinski harabasz score: 492.8653283050952
+davies_bouldin_score: 1.159099156805472
+Clusters: 17
+silhouette_score: 0.70234764
+calinski harabasz score: 572.7804458042777
+davies_bouldin_score: 1.238134961340812
+Clusters: 18
+silhouette_score: 0.6947234
+calinski harabasz score: 540.7439668854003
+davies_bouldin_score: 1.3190013485292296
+Clusters: 19
+silhouette_score: 0.67937165
+calinski harabasz score: 516.6603714249688
+davies_bouldin_score: 1.3779879531010193
+complete correlation
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 1.0
+calinski harabasz score: 485.82095592219815
+davies_bouldin_score: 0.9619778922790063
+Clusters: 3
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 4
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 5
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 6
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 7
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 8
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 9
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 10
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 11
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 12
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 13
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 14
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 15
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 16
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 17
+silhouette_score: 0.6414448641039184
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 18
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+Clusters: 19
+silhouette_score: 0.6414448641039183
+calinski harabasz score: 245.92450707636647
+davies_bouldin_score: 2.5382311149116332
+complete hamming
+Можлива к-ть класів
+complete chebyshev
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.455355148705515
+calinski harabasz score: 476.5692129653456
+davies_bouldin_score: 0.7671729353021625
+Clusters: 3
+silhouette_score: 0.4910610074799862
+calinski harabasz score: 818.3484681020996
+davies_bouldin_score: 0.7176927819014067
+Clusters: 4
+silhouette_score: 0.4071897838508402
+calinski harabasz score: 743.5015537776097
+davies_bouldin_score: 0.7488052135291758
+Clusters: 5
+silhouette_score: 0.35440165820548236
+calinski harabasz score: 802.500891032297
+davies_bouldin_score: 0.7299789954217868
+Clusters: 6
+silhouette_score: 0.3666016918221325
+calinski harabasz score: 846.2567946529437
+davies_bouldin_score: 0.7305486785903458
+Clusters: 7
+silhouette_score: 0.4223141595738874
+calinski harabasz score: 960.9699627208042
+davies_bouldin_score: 0.651913146272112
+Clusters: 8
+silhouette_score: 0.44205205002755993
+calinski harabasz score: 1130.1987909103643
+davies_bouldin_score: 0.6705502360365588
+Clusters: 9
+silhouette_score: 0.42802162889141165
+calinski harabasz score: 1084.430842606615
+davies_bouldin_score: 0.676523938271509
+Clusters: 10
+silhouette_score: 0.4409373917036978
+calinski harabasz score: 1198.3589682118707
+davies_bouldin_score: 0.6961096010142425
+Clusters: 11
+silhouette_score: 0.40997722041072665
+calinski harabasz score: 1252.0673234658802
+davies_bouldin_score: 0.733864306033356
+Clusters: 12
+silhouette_score: 0.4087689779862656
+calinski harabasz score: 1338.6849840826662
+davies_bouldin_score: 0.7255848589761853
+Clusters: 13
+silhouette_score: 0.4217437125809814
+calinski harabasz score: 1352.9361001140135
+davies_bouldin_score: 0.7879480668530066
+Clusters: 14
+silhouette_score: 0.4101215070474573
+calinski harabasz score: 1334.8460081763571
+davies_bouldin_score: 0.8408767008287985
+Clusters: 15
+silhouette_score: 0.39071222517107074
+calinski harabasz score: 1315.7347097410427
+davies_bouldin_score: 0.859517802376984
+Clusters: 16
+silhouette_score: 0.3858022777140988
+calinski harabasz score: 1269.936201341822
+davies_bouldin_score: 0.8442922682519474
+Clusters: 17
+silhouette_score: 0.40699908507666194
+calinski harabasz score: 1311.6646505096776
+davies_bouldin_score: 0.8140051284743651
+Clusters: 18
+silhouette_score: 0.38598736325685346
+calinski harabasz score: 1277.8082779600693
+davies_bouldin_score: 0.8406817129649141
+Clusters: 19
+silhouette_score: 0.3852023699560925
+calinski harabasz score: 1268.4289458869748
+davies_bouldin_score: 0.8013427943454599
+complete canberra
+Можлива к-ть класів
+complete braycurtis
+Можлива к-ть класів
+Clusters: 2
+silhouette_score: 0.589276389783787
+calinski harabasz score: 350.0768508429579
+davies_bouldin_score: 1.0570892797648461
+Clusters: 3
+silhouette_score: 0.5600280705905374
+calinski harabasz score: 629.6558953862768
+davies_bouldin_score: 0.7078204065933513
+Clusters: 4
+silhouette_score: 0.5364170327655889
+calinski harabasz score: 592.5012239367148
+davies_bouldin_score: 0.7166408386614365
+Clusters: 5
+silhouette_score: 0.5145282754691941
+calinski harabasz score: 807.7038494215484
+davies_bouldin_score: 0.7261287442961188
+Clusters: 6
+silhouette_score: 0.4772514901219136
+calinski harabasz score: 698.8897237927251
+davies_bouldin_score: 0.8748022711544589
+Clusters: 7
+silhouette_score: 0.4826394778314893
+calinski harabasz score: 729.9720024273429
+davies_bouldin_score: 0.7740297840030063
+Clusters: 8
+silhouette_score: 0.47443802160311416
+calinski harabasz score: 646.7206717289552
+davies_bouldin_score: 0.7672782879522155
+Clusters: 9
+silhouette_score: 0.477113546692882
+calinski harabasz score: 620.3620805586779
+davies_bouldin_score: 0.7709906492326902
+Clusters: 10
+silhouette_score: 0.47758577760745174
+calinski harabasz score: 558.6538469661881
+davies_bouldin_score: 0.7326158667038214
+Clusters: 11
+silhouette_score: 0.47135588476083073
+calinski harabasz score: 934.908717970976
+davies_bouldin_score: 0.7274046940226437
+Clusters: 12
+silhouette_score: 0.4713567904130447
+calinski harabasz score: 880.618743847766
+davies_bouldin_score: 0.714018328184641
+Clusters: 13
+silhouette_score: 0.45434028542737087
+calinski harabasz score: 834.5063709784563
+davies_bouldin_score: 0.7539432825183915
+Clusters: 14
+silhouette_score: 0.44772251283797565
+calinski harabasz score: 778.2012844760034
+davies_bouldin_score: 0.7820011783308131
+Clusters: 15
+silhouette_score: 0.42313620447499095
+calinski harabasz score: 796.655021380362
+davies_bouldin_score: 0.7933375415829578
+Clusters: 16
+silhouette_score: 0.415577536016807
+calinski harabasz score: 834.0165896047808
+davies_bouldin_score: 0.7667556599301176
+Clusters: 17
+silhouette_score: 0.4128309975418886
+calinski harabasz score: 783.1577513203976
+davies_bouldin_score: 0.7795512402022349
+Clusters: 18
+silhouette_score: 0.4155071797544213
+calinski harabasz score: 782.9658633768693
+davies_bouldin_score: 0.7749963805451467
+Clusters: 19
+silhouette_score: 0.4176705847125929
+calinski harabasz score: 740.3840333494538
+davies_bouldin_score: 0.7491708532369712
